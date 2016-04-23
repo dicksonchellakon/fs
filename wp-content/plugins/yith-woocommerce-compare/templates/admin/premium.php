@@ -154,25 +154,28 @@
     background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/01-bg.png) no-repeat #fff; background-position: 85% 75%
 }
 .section.two{
-    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/02-bg.png) no-repeat #fff; background-position: 85% 75%
+    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/02-bg.png) no-repeat #fff; background-position: 15% 75%
 }
 .section.three{
     background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/03-bg.png) no-repeat #fff; background-position: 85% 75%
 }
 .section.four{
-    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/04-bg.png) no-repeat #fff; background-position: 85% 75%
+    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/04-bg.png) no-repeat #fff; background-position: 15% 75%
 }
 .section.five{
     background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/05-bg.png) no-repeat #fff; background-position: 85% 75%
 }
 .section.six{
-    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/06-bg.png) no-repeat #fff; background-position: 85% 75%
+    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/06-bg.png) no-repeat #fff; background-position: 15% 75%
 }
 .section.seven{
     background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/07-bg.png) no-repeat #fff; background-position: 85% 75%
 }
 .section.eight{
-    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/08-bg.png) no-repeat #fff; background-position: 85% 75%
+    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/08-bg.png) no-repeat #fff; background-position: 15% 75%
+}
+.section.eleven{
+    background: url(<?php echo YITH_WOOCOMPARE_URL ?>assets/images/11-bg.png) no-repeat #fff; background-position: 85% 75%
 }
 
 @media (max-width: 768px) {
@@ -392,6 +395,22 @@
             </div>
             <div class="col-1">
                 <img src="<?php echo YITH_WOOCOMPARE_URL ?>assets/images/10.png" alt="Social networks" />
+            </div>
+        </div>
+    </div>
+    <div class="eleven section section-even clear">
+        <div class="landing-container">
+            <div class="col-1">
+                <img src="<?php echo YITH_WOOCOMPARE_URL ?>assets/images/11.png" alt="Widget" />
+            </div>
+            <div class="col-2">
+                <div class="section-title">
+                    <img src="<?php echo YITH_WOOCOMPARE_URL?>assets/images/11-icon.png" alt="icon 11" />
+                    <h2><?php _e('WIDGET','yith-woocommerce-compare');?></h2>
+                </div>
+                <p>
+                    <?php echo sprintf( __('Thanks to YITH WooCommerce Comapre Widget users could verify at any time the complete list of products added to the compare tab and avoid to open the popup to check its existence. ','yith-woocommerce-compare'),'<b>','</b>'); ?>
+                </p>
             </div>
         </div>
     </div>

@@ -3,7 +3,7 @@ Contributors: phoeniixx
 Tags: phoeniixx,pincode, zipcode, woocommerce, e-commerce, shop, cod, dod, cash on delivery ,Woocommerce check pincode,Woocommerce check pincode/zipcode for shipping 
 Requires at least: 4.0
 Tested up to: 4.5
-Stable tag: 1.3.5
+Stable tag: 1.3.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,10 +48,6 @@ Advance Check Pin Code is a solution that allows users to set delivery dates bas
 
 **Email :** - [support@phoeniixx.com](mailto:support@phoeniixx.com)
 
-**Skype** - support.phoeniixx
-
-**Ticket system** - [Click here](http://www.phoeniixx.com/support)
-
 **Website** - [http://www.phoeniixx.com/products/](http://www.phoeniixx.com/products/)
 
 For a more detailed list of options and features of the plugin, please look at the [Official Documentation](http://www.phoeniixx.com/docs/woocommerce/woocommerce-check-pincode/index.html)
@@ -64,31 +60,7 @@ For a more detailed list of options and features of the plugin, please look at t
 
 == Frequently Asked Questions ==
 
-* How can I upgrade from a free version to a premium?
-
-**Ans.** [Visit this page](http://www.phoeniixx.com/product/woocommerce-check-pincodezipcode-for-shipping-and-cod/), purchase the plugin from there and install it into your theme. When you activate the premium version, the free version automatically gets deactivated.
-
-* Will I lose the settings of the free version if I switch to the Premium Version?
-
-**Ans.** No, the premium version offers a list of additional features that will work in addition to the features of the free version.
-
-* Do I get access to different styling options for the Check Pincode Functionality on the Product Page?
-
-**Ans.** Yes, the premium feature offers a variety of styling options that are available in the "Styling Options" feature that is present under the Settings Tab.
-
-
-* Is there an option to update Pin codes?
-
-**Ans.** Yes, there is an option to update Pin codes in our plugin.
-
-* How many Pin codes can I add?
-
-**Ans.** You can add an unlimited number of pin codes.
-
-
-* Is there any documentation available for this plugin?
-
-**Ans.** Yes, you can get complete access to the documentation of this plugin at this [Link](http://www.phoeniixx.com/docs/woocommerce/woocommerce-check-pincode/index.html)
+** Coming Soon
 
 == Screenshots ==
 
@@ -98,6 +70,9 @@ For a more detailed list of options and features of the plugin, please look at t
 
 
 == Changelog ==
+
+= 1.3.5 - 19/04/2016 =
+* Warning Fixes.
 
 = 1.3.5 - 15/04/2016 =
 * Bug Fixes.

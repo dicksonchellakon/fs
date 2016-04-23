@@ -112,9 +112,19 @@ if( !class_exists( 'YITH_Woocompare_Frontend' ) ) {
             add_shortcode( 'yith_compare_button', array( $this, 'compare_button_sc' ) );
 
             // AJAX
-            add_action( 'wc_ajax_' . $this->action_add, array( $this, 'add_product_to_compare_ajax' ) );
-            add_action( 'wc_ajax_' . $this->action_remove, array( $this, 'remove_product_from_compare_ajax' ) );
-            add_action( 'wc_ajax_' . $this->action_view, array( $this, 'refresh_widget_list_ajax' ) );
+            if( version_compare( WC()->version, '2.4', '>=' ) ){
+                add_action( 'wc_ajax_' . $this->action_add, array( $this, 'add_product_to_compare_ajax' ) );
+                add_action( 'wc_ajax_' . $this->action_remove, array( $this, 'remove_product_from_compare_ajax' ) );
+                add_action( 'wc_ajax_' . $this->action_view, array( $this, 'refresh_widget_list_ajax' ) );
+            }
+            else {
+                add_action( 'wp_ajax_' . $this->action_add, array( $this, 'add_product_to_compare_ajax' ) );
+                add_action( 'wp_ajax_nopriv_' . $this->action_add, array( $this, 'add_product_to_compare_ajax' ) );
+                add_action( 'wp_ajax_' . $this->action_remove, array( $this, 'remove_product_from_compare_ajax' ) );
+                add_action( 'wp_ajax_nopriv_' . $this->action_remove, array( $this, 'remove_product_from_compare_ajax' ) );
+                add_action( 'wp_ajax_' . $this->action_view, array( $this, 'refresh_widget_list_ajax' ) );
+                add_action( 'wp_ajax_nopriv_' . $this->action_view, array( $this, 'refresh_widget_list_ajax' ) );
+            }
 
             return $this;
         }
@@ -127,7 +137,7 @@ if( !class_exists( 'YITH_Woocompare_Frontend' ) ) {
             // scripts
             wp_enqueue_script( 'yith-woocompare-main', YITH_WOOCOMPARE_ASSETS_URL . '/js/woocompare.js', array('jquery'), $this->version, true );
             wp_localize_script( 'yith-woocompare-main', 'yith_woocompare', array(
-                'ajaxurl'   => WC_AJAX::get_endpoint( "%%endpoint%%" ),
+                'ajaxurl'   => version_compare( WC()->version, '2.4', '>=' ) ? WC_AJAX::get_endpoint( "%%endpoint%%" ) : admin_url( 'admin-ajax.php', 'relative' ),
                 'actionadd' => $this->action_add,
                 'actionremove' => $this->action_remove,
                 'actionview' => $this->action_view,

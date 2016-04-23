@@ -14,7 +14,7 @@ function add_pincodes_f()
 	
 	$plugin_dir_url =  plugin_dir_url( __FILE__ );
 	
-	if( sanitize_text_field( $_POST['submit'] ) && current_user_can( 'manage_options' ) )
+	if( !empty( $_POST['submit'] ) && sanitize_text_field( $_POST['submit'] ) && current_user_can( 'manage_options' ) )
 	{
 		
 		$nonce_check = sanitize_text_field( $_POST['_wpnonce_add_pincode_form'] );

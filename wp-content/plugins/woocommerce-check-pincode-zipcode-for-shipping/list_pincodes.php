@@ -3,7 +3,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 global $table_prefix, $wpdb;
 
-if(sanitize_text_field( $_GET['action'] ) == 'delete')
+if(!empty( $_GET['action'] ) && sanitize_text_field( $_GET['action'] ) == 'delete')
 
 {
 	
@@ -672,8 +672,13 @@ if($tab == 'list' || $tab == '')
 }
 if($tab == 'list' || $tab == '')
 {
-
-			$id = sanitize_text_field( $_GET['id'] );
+			if( !empty( $_GET['id'] ) )
+			{
+				
+				$id = sanitize_text_field( $_GET['id'] );
+				
+			}
+			
 
 			if( isset( $_GET['action'] ) ) {
 				
@@ -687,10 +692,7 @@ if($tab == 'list' || $tab == '')
 				
 			}
 
-			if(sanitize_text_field( $_GET['action'] ) == 'delete')
-
-
-
+			if( !empty( $_GET['action'] ) && sanitize_text_field( $_GET['action'] ) == 'delete')
 			{
 
 

@@ -3,14 +3,13 @@
 Contributors: yithemes
 Tags: wc, shop, woocommerce, compare, compare products, product compare, widget, comparison, product comparison, compare table
 Requires at least: 3.5.1
-Tested up to: 4.4
-Stable tag: 2.0.7
+Tested up to: 4.5
+Stable tag: 2.0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 YITH WooCommerce Compare allows you to compare more products of your shop in one complete table.
 WooCommerce Compatible up to 2.5.x
-
 
 == Description ==
 
@@ -71,6 +70,12 @@ yith-woocommerce-compare-<WORDPRESS LOCALE >.mo
 3. The settings of plugin
 
 == Changelog ==
+
+= 2.0.8 =
+
+* Added: Compatibility with WordPress 4.5
+* Fixed: Fatal error call to undefined method WC_AJAX::get_endpoint() for WooCommerce version older then 2.4
+* Updated: Plugin Core.
 
 = 2.0.7 =
 
@@ -220,11 +225,8 @@ Full documentation is available [here](http://yithemes.com/docs-plugins/yith-woo
 
 == Upgrade notice ==
 
-= 2.0.7 =
+= 2.0.8 =
 
-* Fixed: Product status now updates automatically when the product is removed from the compare widget.
-* Fixed: Redirect correctly to cart page after "Add to cart" is clicked if "Redirect to the cart page after successful addition" option is enabled.
-* Fixed: Redirect correctly to product page after "Add to cart" is clicked when "Enable AJAX add to cart buttons on archives" option is disabled.
-* Updated: Plugin template compare.php
+* Added: Compatibility with WordPress 4.5
+* Fixed: Fatal error call to undefined method WC_AJAX::get_endpoint() for WooCommerce version older then 2.4
 * Updated: Plugin Core.
-* Updated: Language file.
