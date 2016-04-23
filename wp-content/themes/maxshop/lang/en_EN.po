@@ -1,0 +1,2599 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maxshop\n"
+"POT-Creation-Date: 2015-06-02 11:30+0700\n"
+"PO-Revision-Date: 2015-06-02 11:30+0700\n"
+"Last-Translator: \n"
+"Language-Team: Magentech <admin@ytcvn.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: E:\\xampp-new\\htdocs\\ytc_templates\\wordpress"
+"\\sw_maxshop\\wp-content\\themes\\sw_maxshop\n"
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/404.php:9
+msgid "Don't worry you will be back on track in no time!"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/404.php:11
+msgid ""
+"Page doesn't exist or some other error occured. Go to our home page or go "
+"back previous page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/404.php:13
+msgid "PREVIOUS PAGE"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/404.php:14
+msgid "BACK TO HOMEPAGE"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:14
+msgid "About"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:15
+msgid ""
+"<p class=\"description\">SW MaxShop is an outstanding responsive WordPress "
+"theme for multipurpose store, this theme is suitable for any kind of online "
+"store that needs a feature rich and beautiful presence online.<br><br>\n"
+"\t\tTheme Name:         SW MAX SHOP<br>\n"
+"\t\tTheme URI:         <a href=\"http://magentech.com/\">http://magentech."
+"com/</a><br>\n"
+"\t\tDescription:        SW Max Shop is base theme.<br>\n"
+"\t\tVersion:            1.0.2<br>\n"
+"\t\tAuthor:             Magentech<br>\n"
+"\t\tAuthor URI:         <a href=\"http://magentech.com/\">http://magentech."
+"com/</a>\n"
+"</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:31
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:32
+msgid "General"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:32
+msgid ""
+"<p class=\"description\">The theme allows to build your own styles right out "
+"of the backend without any coding knowledge. Start your own color scheme by "
+"selecting one of 5 predefined schemes. Upload new logo and favicon or get "
+"their URL.</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:41
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:37
+msgid "Color Scheme"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:57
+msgid "Background Image"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:65
+msgid "Color Option"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:66
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:67
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:73
+msgid "Background Repeat"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:82
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:50
+msgid "Favicon Icon"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:90
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:65
+msgid "Responsive Support"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:98
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:70
+msgid "Logo Image"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:106
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:111
+msgid "Layout"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:107
+msgid ""
+"<p class=\"description\">Ya Framework comes with a layout setting that "
+"allows you to build any number of stunning layouts and apply theme to your "
+"entries.</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:116
+msgid "Box Layout"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:128
+msgid "Background Box Image"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:135
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:131
+msgid "Left Sidebar Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:156
+msgid "Right Sidebar Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:176
+msgid "Left Sidebar Medium Desktop Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:196
+msgid "Right Sidebar Medium Desktop Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:216
+msgid "Left Sidebar Tablet Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:236
+msgid "Right Sidebar Tablet Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:256
+msgid "Layout product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:267
+msgid "Sidebar Blog Layout"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:280
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:158
+msgid "Layout blog"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:293
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:167
+msgid "Blog column"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:305
+msgid "Header"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:306
+msgid ""
+"<p class=\"description\">Ya Framework comes with a header setting that "
+"allows you to build style header.</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:315
+msgid "Header Style"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:329
+msgid "Phone number"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:335
+msgid "Search form"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:348
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:75
+msgid "Navbar Options"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:349
+msgid ""
+"<p class=\"description\">If you got a big site with a lot of sub menus we "
+"recommend using a mega menu. Just select the dropbox to display a menu as "
+"mega menu or dropdown menu.</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:387
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:102
+msgid "Menu Type"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:394
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:177
+msgid "Typography"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:395
+msgid ""
+"<p class=\"description\">Change the font style of your blog, custom with "
+"Google Font.</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:404
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:182
+msgid "Use Google Webfont"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:412
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:187
+msgid "Webfont Weight"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:428
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:215
+msgid "Webfont Assign to"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:431
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:217
+msgid "Headers"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:432
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:218
+msgid "Everywhere"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:433
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:219
+msgid "Custom"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:440
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:225
+msgid "Webfont Custom Selector"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:446
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:455
+msgid "Social share"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:447
+msgid ""
+"<p class=\"description\">Social sharing is ready to use and built in. You "
+"can share your pages with just a click and your post can go to their wall "
+"and you can gain vistitors from Social Networks. Check Social Networks that "
+"you want to use.</p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:463
+msgid "Facebook"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:471
+msgid "Twitter"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:479
+msgid "Linked_in"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:487
+msgid "Google+"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:506
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:230
+msgid "Advanced"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:507
+msgid ""
+"<p class=\"description\">Custom advanced with Cpanel, Widget advanced, "
+"Developer mode </p>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:515
+msgid "Show cPanel"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:523
+msgid "Widget Advanced"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:531
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:235
+msgid "Developer Mode"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:540
+msgid "Back to top"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:548
+msgid "Direction"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:555
+msgid "Active Effect Scroll"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:564
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:240
+msgid "Google Analytics ID"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:570
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:245
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:606
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/admin.php:8
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/admin.php:9
+msgid "Theme Options"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:609
+msgid "YA Options :: "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:630
+msgid "Sidebar Left Blog"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:638
+msgid "Sidebar Right Blog"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:647
+msgid "Top"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:656
+msgid "Sidebar Left Detail Product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:664
+msgid "Sidebar Bottom Detail Product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:673
+msgid "Sidebar Left Product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:682
+msgid "Sidebar Right Product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:691
+msgid "Above Footer"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:699
+msgid "Footer"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:707
+msgid "Footer Copyright"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/defines.php:715
+msgid "Floating"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/footer.php:22
+msgid ""
+"Copyright &copy; 2015 SW MaxShop Store. All Rights Reserved. Design by <a "
+"href=\"http://magentech.com/\" target=\"_blank\" title=\"Wordpress Themes, "
+"Joomla Templates\">Magentech.com</a>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:33
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:34
+msgid "Theme Activation"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:70
+#, php-format
+msgid "%s Theme Activation"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:86
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:91
+msgid "Create static front page?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:96
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:118
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:139
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:160
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:181
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:324
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:334
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:552
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:562
+msgid "Yes"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:99
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:121
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:142
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:163
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:184
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:325
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:335
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:553
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:563
+msgid "No"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:101
+msgid "Create a page called Home and set it to be the static front page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:108
+msgid "Change permalink structure?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:113
+msgid "Update permalink structure?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:123
+msgid "Change permalink structure to /&#37;postname&#37;/"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:130
+msgid "Change uploads folder?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:134
+msgid "Update uploads folder?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:144
+msgid "Change uploads folder to /assets/ instead of /wp-content/uploads/"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:151
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:155
+msgid "Create navigation menu?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:165
+msgid "Create the Primary Navigation menu and set the location"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:172
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:176
+msgid "Add pages to menu?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/activation.php:186
+msgid "Add all current published pages to the Primary Navigation"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/admin.php:19
+msgid "YA Advanced Options Page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:177
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1956
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:532
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2173
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1167
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1348
+msgid "Private Repository"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1170
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1351
+msgid "Pre-Packaged"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1175
+msgid "WordPress Repository"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1178
+msgid "Required"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1178
+msgid "Recommended"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1181
+msgid "Not Installed"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1183
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1288
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1409
+msgid "Install"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1312
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1410
+msgid "Activate"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1372
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1388
+msgid "Plugin"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1389
+msgid "Source"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1390
+msgid "Type"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1391
+msgid "Status"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1939
+msgid "Install package not available."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1940
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1941
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1942
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1943
+msgid "Plugin install failed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1944
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:1955
+msgid "Plugin activation failed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2069
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2070
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2079
+msgid "Show Details"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2070
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2079
+msgid "Hide Details"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2071
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2076
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2077
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2078
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2080
+msgid "All installations have been completed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/class-tgm-plugin-activation.php:2081
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/classes.php:246
+msgid "Override by Theme"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/classes.php:255
+msgid "Default Template"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/classes.php:460
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:127
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:212
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:295
+msgid "Title"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/classes.php:468
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:183
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:865
+msgid "Template"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/cleanup.php:404
+msgid "Readmore"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/cleanup.php:545
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:39
+msgid "Green"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:40
+msgid "Blue"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:41
+msgid "Orange"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:42
+msgid "Pink"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:43
+msgid "Purple"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:44
+msgid "Red"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:55
+msgid "Text Direction"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:57
+msgid "Auto"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:58
+msgid "Left to Right"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:59
+msgid "Right to Left"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:79
+msgid "Navbar Position"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:88
+msgid "Navbar Inverse Color"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:92
+msgid "Display Branding"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:97
+msgid "Use Logo for Branding"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:117
+msgid "Primary Sidebar Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:145
+msgid "Left Right Expand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:201
+msgid "Webfont Character Set"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:203
+msgid "Cyrillic"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:204
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:205
+msgid "Greek"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:206
+msgid "Greek Extended"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:207
+msgid "Latin"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:208
+msgid "Latin Extended"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/config.php:209
+msgid "Vietnamese"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/init.php:13
+msgid "Primary Menu"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:248
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:252
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:293
+msgid "Edit Menu Item"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:301
+msgid "URL"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:308
+msgid "Navigation Label"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:314
+msgid "Title Attribute"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:321
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:326
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:332
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:338
+msgid "Description"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:340
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:344
+msgid "Show/Hide Advance Menu Config"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:391
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/upload/field_upload.php:39
+msgid "Browse"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:392
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:428
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/multi_text/field_multi_text.php:39
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/multi_text/field_multi_text.php:46
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/multi_text/field_multi_text.php:50
+msgid "Remove"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:415
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/nav.php:429
+msgid "Cancel"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes.php:515
+msgid "Home"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes.php:588
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes.php:603
+msgid "Archives for"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes.php:607
+msgid "You searched for"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes.php:610
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes.php:2012
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-rsidebar.php:56
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_posts/2colum.php:40
+msgid " comments"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:63
+msgid "Latest Posts"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:72
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:74
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:76
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:78
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:83
+#, php-format
+msgid "Search Results for <small>%s</small>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:85
+msgid "Not Found"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:97
+#, php-format
+msgid "Please make sure your <a href=\"%s\">.htaccess</a> file is writable "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/utils.php:838
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/searchcate.php:37
+msgid "Search for products"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:5
+msgid "Same window"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:6
+msgid "New window"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:8
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:35
+msgid "All Links"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:30
+msgid "All Category Product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:44
+msgid "POSTS"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:47
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:145
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:234
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:382
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:466
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:610
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:724
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:766
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:846
+msgid "My shortcodes"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:50
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:385
+msgid "Display posts-seclect category"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:54
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:152
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:241
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:389
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:473
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:617
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:731
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:771
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:853
+msgid "Widget title"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:56
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:154
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:243
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:391
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:475
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:619
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:733
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:855
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:60
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:158
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:247
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:395
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:479
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:623
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:859
+msgid "Style title"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:62
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:167
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:256
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:404
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:488
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:632
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:861
+msgid "What text use as a style title. Leave blank to use default style title."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:66
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:408
+msgid "Type post"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:70
+msgid "The_blog"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:71
+msgid "2_column"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:72
+msgid "slide_show"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:73
+msgid "middle_right"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:74
+msgid "Our Member"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:76
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:417
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:508
+msgid "Select different style posts."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:82
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:423
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:514
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:638
+msgid "Category filter:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:89
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:171
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:271
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:430
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:877
+msgid "Number of posts to show"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:95
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:177
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:436
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:527
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:651
+msgid "Excerpt length (in words)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:97
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:179
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:438
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:529
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:653
+msgid "Excerpt length (in words)."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:101
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:223
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:371
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:448
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:599
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:713
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:755
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:835
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:884
+msgid "Extra class name"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:103
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:225
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:373
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:450
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:601
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:715
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:757
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:837
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:886
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:109
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:194
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:277
+msgid "Order way"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:112
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:197
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:280
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:45
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_default/tmpl/default_form.php:17
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:47
+msgid "Descending"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:113
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:198
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:281
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:49
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_default/tmpl/default_form.php:21
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:51
+msgid "Ascending"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:115
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:200
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:283
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:120
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:205
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:288
+msgid "Order by"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:124
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:209
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:292
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:214
+msgid "Date"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:125
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:210
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:293
+msgid "ID"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:126
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:211
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:294
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/entry-meta.php:4
+msgid "Author"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:128
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:213
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:296
+msgid "Modified"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:129
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:214
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:297
+msgid "Random"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:130
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:215
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:298
+msgid "Comment count"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:131
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:216
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:299
+msgid "Menu order"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:133
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:218
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:301
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:142
+msgid "Testimonial Slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:148
+msgid "The tesminial on your site"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:162
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:251
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:399
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:483
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:627
+msgid "Style title 1"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:163
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:252
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:400
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:484
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:628
+msgid "Style title 2"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:164
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:253
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:401
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:485
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:629
+msgid "Style title 3"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:165
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:254
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:402
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:486
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:630
+msgid "Style title 4"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:186
+msgid "indicators"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:187
+msgid "Slide Style 1"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:188
+msgid "Slide Style 2"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:190
+msgid "Chose template for testimonial"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:231
+msgid "Brand"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:237
+msgid "The best sale  product on your site"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:260
+msgid "Type display"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:264
+msgid "Type default"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:265
+msgid "Type slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:267
+msgid "type you want display."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:305
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:442
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:444
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:533
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:657
+msgid "Speed slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:307
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:535
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:659
+msgid "Speed for slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:311
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:539
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:663
+msgid "Effect slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:314
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:542
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:666
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:870
+msgid "Slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:315
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:543
+msgid "Fade"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:317
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:545
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:679
+msgid "Effect for slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:321
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:549
+msgid "Hover slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:327
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:555
+msgid "Hover for slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:331
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:559
+msgid "Swipe slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:337
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:565
+msgid "Swipe for slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:341
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:569
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:683
+msgid "Number of Columns >1200px:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:343
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:571
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:685
+msgid "Number colums you want display  > 1200px."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:347
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:575
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:689
+msgid "Number of Columns on 768px to 1199px:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:349
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:577
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:691
+msgid "Number colums you want display  on 768px to 1199px."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:353
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:581
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:695
+msgid "Number of Columns on 480px to 767px:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:355
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:583
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:697
+msgid "Number colums you want display  on 480px to 767px."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:359
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:587
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:701
+msgid "Number of Columns on 321px to 479px:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:361
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:589
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:703
+msgid "Number colums you want display  on 321px to 479px."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:365
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:593
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:707
+msgid "Number of Columns in 320px or less than:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:367
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:595
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:709
+msgid "Number colums you want display  in 320px or less than."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:379
+msgid "SLIDE_POSTS"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:412
+msgid "bottom"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:413
+msgid "right"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:414
+msgid "left"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:415
+msgid "out"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:463
+msgid "WOO SLIDE"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:469
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:613
+msgid "Display woo slide - seclect category"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:492
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:26
+msgid "Image"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:495
+msgid "Select image from media library."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:499
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:746
+msgid "Theme shortcode want display"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:503
+msgid "Upsell Products"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:504
+msgid "Recommend Products"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:505
+msgid "Child categories product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:506
+msgid "Left Child Cat"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:521
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:645
+msgid "Number of product to show"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:607
+msgid "WOO Count Down"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:667
+msgid "Fade In"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:668
+msgid "Slide Left"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:669
+msgid "Slide Right"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:670
+msgid "Zoom Out"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:671
+msgid "Zoom In"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:672
+msgid "Flip"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:673
+msgid "Flip in Horizontal"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:674
+msgid "Flip in Vertical"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:675
+msgid "Star war"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:676
+msgid "Bounce In"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:677
+msgid "Page Top"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:721
+msgid "vertical mega menu"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:727
+msgid "Display vertical mega menu"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:739
+msgid "Category menu:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:749
+msgid "default"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:751
+msgid "Select different style menu."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:763
+msgid "YTC_Gallery"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:767
+msgid "Animated carousel with images"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:773
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:777
+msgid "Images"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:780
+msgid "Select images from media library."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:784
+msgid "gallery size"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:786
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size. If used slides per "
+"view, this will be used to define carousel wrapper size."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:791
+msgid "Gallery caption"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:794
+msgid "true"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:795
+msgid "false"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:797
+msgid "Images display caption true or false"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:801
+msgid "Gallery type"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:804
+msgid "column"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:805
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:828
+msgid "slide"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:806
+msgid "flex"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:808
+msgid "Images display type"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:812
+msgid "gallery columns"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:814
+msgid ""
+"Enter gallery columns. Example: 1,2,3,4 ... Only use gallery type=\"column\"."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:818
+msgid "Slider speed"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:821
+msgid "Duration of animation between slides (in ms)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:825
+msgid "Gallery event"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:829
+msgid "fade"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:831
+msgid "event slide images"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:843
+msgid "Best Sale"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:849
+msgid "Display bestseller"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:869
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:211
+msgid "Default"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/visual-map.php:872
+msgid "Select different style best sale."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:47
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:48
+msgid "SW Posts"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:69
+msgid "SW Category List header widget"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:70
+msgid "SW List Category"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:76
+msgid "SW Vertical Mega Menu Widget"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:77
+msgid "SW Vertical Mega Menu"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:85
+msgid "SW top header widget"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:86
+msgid "SW Top Widget"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:93
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:94
+msgid "SW Top Rated Product Widget"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:101
+msgid "SW best seller product woocommerce"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:102
+msgid "SW best seller products"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:109
+msgid "SW related products woocommerce"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:110
+msgid "SW related products"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:139
+msgid "SW Categories"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:140
+msgid "SW Catetories"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:147
+msgid "SW feature product woocommerce"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:148
+msgid "SW Feature Products"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:156
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:157
+msgid "WP Default Widget"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:164
+msgid "SW Social Networks"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:165
+msgid "SW Social"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:220
+msgid "Title: "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:244
+msgid "icon-* | title"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:249
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:277
+msgid "Link "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:272
+msgid "Classname for Icon or Title"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:290
+msgid "Theme Options on Frontend"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:291
+msgid "YA cPanel"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:422
+msgid "Widget Style"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:572
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:880
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes/portfolio.php:69
+msgid "All"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:573
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:881
+msgid "Only on selected"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:574
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:882
+msgid "Except selected"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:578
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:889
+msgid "Widget Display"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:597
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:851
+msgid "Show only for login users"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:598
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:852
+msgid "Show only for logout users"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:627
+msgid "Language Display"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:643
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:856
+msgid "Blog posts"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:644
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:857
+msgid "Archive page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:645
+msgid "Archive Date"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:646
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:858
+msgid "Category archive"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:647
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:859
+msgid "Tag archive"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:648
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:860
+msgid "Author archive"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:649
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:861
+msgid "Search page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:650
+msgid "Single post"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:651
+msgid "Page template"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:652
+msgid "Page 404"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:667
+msgid "Taxonomy slugs"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:671
+msgid "Posts type"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:675
+msgid "Categories ID"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:679
+msgid "Posts ID"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:855
+msgid "Front page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:862
+msgid "Pages"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets.php:863
+msgid "Single post page"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:173
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/archive-product.php:96
+msgid "Grid view"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:174
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/archive-product.php:97
+msgid "List view"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:209
+msgid "Sort by"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:211
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:212
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:213
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:214
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:215
+msgid "Sort by "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:212
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:213
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:28
+msgid "Price"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:215
+msgid "Rating"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/woocommerce-hook.php:229
+msgid "8"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:34
+msgid "Options"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:290
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:590
+msgid "SAVE"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:591
+msgid "RESET"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:671
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:828
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:864
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:1022
+msgid "Reset to Defaults"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:677
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:870
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:679
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:872
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:683
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:877
+msgid "<strong>Settings have changed!, you should save them!</strong>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:684
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:878
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:686
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:880
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:721
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:803
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:915
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/options.php:997
+msgid "Dev Mode Info"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/color_gradient/field_color_gradient.php:35
+msgid "From:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/color_gradient/field_color_gradient.php:38
+msgid " To:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/google_webfonts/field_google_webfonts.php:42
+msgid ""
+"The fonts provided below are free to use custom fonts from the <a href=\""
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/multi_field/field_multi_field.php:74
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/multi_text/field_multi_text.php:54
+msgid "Add More"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/fields/upload/field_upload.php:40
+msgid "Remove Upload"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/color/validation_color.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/options/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:22
+msgid "Allow users to choose a currency for prices to be displayed in."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:24
+msgid "WooCommerce Currency Converter"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:69
+msgid "Reset"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:95
+msgid "Title:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:96
+msgid "Currency converter"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:98
+msgid "Currency codes:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:98
+msgid "1 per line"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter-widget.php:102
+msgid "Show reset link:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter.php:30
+msgid "Open Exchange Rate API"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter.php:32
+msgid "App Key"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter.php:33
+#, php-format
+msgid ""
+"(optional) If you have an <a href=\"%s\">Open Exchange Rate API app ID</a>, "
+"enter it here."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/plugins/currency-converter/currency-converter.php:123
+msgid "Original price:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes/portfolio.php:101
+msgid "Show More Portfolio"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes/portfolio.php:101
+msgid "All Items Loaded"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes/portfolio.php:106
+msgid "Please select categories id"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes/woo_countdown.php:184
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/shortcodes/woo_slider.php:269
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/content-product.php:36
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/content-product.php:57
+msgid "Quick View"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/top_rated_product/tmpl/default.php:1
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_recommend_product/tmpl/default.php:1
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_relate_product/tmpl/default.php:1
+msgid " review(s)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/top_rated_product/tmpl/default_form.php:6
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_best_seller/tmpl/default_form.php:6
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_best_seller_product/tmpl/default_form.php:8
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_feature_product/tmpl/default_form.php:6
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:57
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_recommend_product/tmpl/default_form.php:7
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_related/tmpl/default_form.php:7
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_relate_product/tmpl/default_form.php:7
+msgid "Number of Posts"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/vertical_megamenu/tmpl/default_form.php:8
+msgid "Menu Name"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/vertical_megamenu/tmpl/default_form.php:13
+msgid "Select Menu Name"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_best_seller/tmpl/default.php:1
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_best_seller_product/tmpl/default.php:1
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_feature_product/tmpl/default.php:1
+msgid " review(s) "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_best_seller_product/tmpl/default_form.php:15
+msgid "El_class"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_best_seller_product/tmpl/default_form.php:23
+msgid "Style title "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:11
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_category_list/tmpl/default_form.php:11
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_category_product/tmpl/default_form.php:11
+msgid "Categories Name"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:17
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:19
+msgid "Orderby"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:38
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_default/tmpl/default_form.php:10
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:40
+msgid "Order"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:55
+msgid "Number of Categories"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_categories/tmpl/default_form.php:64
+msgid "Exclude"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_category_list/tmpl/default.php:36
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_category_product/tmpl/default.php:36
+msgid "Shop Now"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_default/tmpl/default.php:20
+msgid "Written by"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_default/tmpl/default_form.php:27
+msgid "Number of comments"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_default/tmpl/default_form.php:36
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:84
+msgid "Excerpt length (in words): "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:13
+msgid "Category Name"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:66
+msgid "Include Posts ID"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_posts/tmpl/default_form.php:75
+msgid "Exclude Posts ID"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/lib/widgets/ya_related/tmpl/default_form.php:15
+msgid "Length of excerpt"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:16
+msgid "(Edit)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:17
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:22
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:42
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:59
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:61
+msgid "&larr; Older comments"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:64
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:66
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:80
+#, php-format
+msgid "Logged in as <a href=\"%s/wp-admin/profile.php\">%s</a>."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:80
+msgid "Log out of this account"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:80
+msgid "Log out &raquo;"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:84
+msgid "Name*"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/comments.php:128
+msgid "Post comment"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-default.php:28
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-single.php:11
+msgid "Category: "
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-default.php:40
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-grid.php:58
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-list.php:40
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-page.php:11
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-rsidebar.php:80
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-single.php:33
+msgid "Pages:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-grid.php:61
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-grid.php:126
+msgid "Read more"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-grid.php:99
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/pagination.php:6
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/pagination.php:8
+msgid "Prev"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-grid.php:100
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/pagination.php:32
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/pagination.php:34
+msgid "Next"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-rsidebar.php:59
+msgid " Views"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-rsidebar.php:78
+msgid "READ MORE"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-single.php:51
+msgid "Related Posts:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-single.php:84
+msgid "<span class=\"icon-circle-arrow-left\"></span> %title"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/content-single.php:85
+msgid "%title <span class=\"icon-circle-arrow-right \"></span>"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/entry-meta.php:5
+msgid "Published"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/entry-meta.php:6
+msgid "Category"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/header-style1.php:38
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/header-style2.php:38
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/header-style3.php:34
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/header-style5.php:35
+msgid "HOT LINE:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/header-style4.php:79
+msgid "All categories"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/header-style5.php:53
+msgid "Show All"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/no-results.php:4
+msgid "Sorry, no results were found."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/templates/searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_posts/thisweak.php:23
+msgid "This Week"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_posts/women.php:19
+msgid "View All"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/login-header4.php:9
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/login.php:11
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:27
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:50
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/login-form.php:31
+msgid "Login"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/login-header4.php:13
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/login.php:15
+msgid "Sign in Or Register"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/login-header4.php:25
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/login.php:27
+msgid "Logout"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/widgets/ya_top/searchcate.php:28
+msgid "All Categories"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/loop-shop.php:40
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/loop/no-products-found.php:14
+msgid "No products found which match your selection."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:12
+msgid "Shopping Cart"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:13
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:17
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:22
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:57
+msgid "View your shopping cart"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:13
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:17
+msgid "item(s)"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:21
+msgid "My Cart"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:56
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:98
+msgid "Total:"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:102
+msgid "Go To Cart"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/minicart-ajax.php:103
+msgid "Check Out"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:27
+msgid "Product"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:30
+msgid "Total"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:74
+msgid "Available on backorder"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:119
+msgid "Coupon"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:119
+msgid "Coupon code"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:119
+msgid "Apply Coupon"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/cart/cart.php:126
+msgid "Update Cart"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:38
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:89
+msgid "Password"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:45
+msgid "Remember me"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:66
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:103
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/register-form.php:55
+msgid "Register"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:82
+msgid "Email address"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/form-login.php:96
+msgid "Anti-spam"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/login-form.php:26
+msgid "Forgot your password?"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/myaccount/login-form.php:44
+msgid "Create an account"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/product-image.php:33
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/product-image.php:55
+msgid "Sale!"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/rating.php:27
+msgid "Availability"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/rating.php:28
+msgid "In stock"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/rating.php:28
+msgid "Out stock"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/review.php:33
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/review.php:40
+msgid "verified owner"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/short-description.php:17
+msgid "QUICK OVERVIEW"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/add-to-cart/variable.php:27
+msgid "Choose an option"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/add-to-cart/variable.php:67
+msgid "Clear selection"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/add-to-cart/variable.php:97
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/tabs/additional-information.php:14
+msgid "Additional Information"
+msgstr ""
+
+#: E:\xampp-new\htdocs\ytc_templates\wordpress\sw_maxshop\wp-content\themes\sw_maxshop/woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

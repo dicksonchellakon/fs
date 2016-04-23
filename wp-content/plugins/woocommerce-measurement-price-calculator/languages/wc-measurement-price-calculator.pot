@@ -1,0 +1,1002 @@
+# Copyright (C) 2013 WooCommerce Measurement Price Calculator
+# This file is distributed under the same license as the WooCommerce Measurement Price Calculator package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Measurement Price Calculator 3.0-2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-measurement-price-"
+"calculator\n"
+"POT-Creation-Date: 2013-06-03 20:03:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:58
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:79
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:110
+#: admin/post-types/writepanels/writepanel-product_data.php:42
+#: classes/class-wc-price-calculator-product.php:275
+#: classes/class-wc-price-calculator-product.php:286
+#: classes/class-wc-price-calculator-product.php:292
+msgid "Area"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:58
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:79
+#: admin/post-types/writepanels/writepanel-product_data.php:42
+msgid ""
+"Overrides the area calculated from the width/length dimensions for the "
+"Measurements Price Calculator."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:62
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:80
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:112
+#: admin/post-types/writepanels/writepanel-product_data.php:44
+#: classes/class-wc-price-calculator-product.php:332
+#: classes/class-wc-price-calculator-product.php:351
+#: classes/class-wc-price-calculator-product.php:360
+#: classes/class-wc-price-calculator-product.php:365
+msgid "Volume"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:62
+#: admin/post-types/writepanels/writepanel-product-type-variable.php:80
+#: admin/post-types/writepanels/writepanel-product_data.php:44
+msgid ""
+"Overrides the volume calculated from the width/length/height dimensions for "
+"the Measurements Price Calculator."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:39
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:125
+msgid "Measurement"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:85
+msgid "Calculator Settings"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:86
+msgid "Pricing Table"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:108
+msgid "None"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:109
+msgid "Dimensions"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:111
+msgid "Area (LxW)"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:113
+msgid "Volume (LxWxH)"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:114
+msgid "Volume (AxH)"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:115
+#: classes/class-wc-price-calculator-product.php:380
+msgid "Weight"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:116
+msgid "Room Walls"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:127
+msgid ""
+"Select the product measurement to calculate quantity by or define pricing "
+"within."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:131
+msgid ""
+"Use this measurement to have the customer prompted for a length and width to "
+"calculate the area required.  When pricing is disabled (no custom "
+"dimensions) this calculator uses the product area attribute or otherwise the "
+"length and width attributes to determine the product area."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:132
+msgid ""
+"Use this measurement to have the customer prompted for a length, width and "
+"height to calculate the volume required.  When pricing is disabled (no "
+"custom dimensions) this calculator uses the product volume attribute or "
+"otherwise the length, width and height attributes to determine the product "
+"volume."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:133
+msgid ""
+"Use this measurement to have the customer prompted for an area and height to "
+"calculate the volume required.  When pricing is disabled (no custom "
+"dimensions) this calculator uses the product volume attribute or otherwise "
+"the length, width and height attributes to determine the product volume."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:134
+msgid ""
+"Use this measurement for applications such as wallpaper; the customer will "
+"be prompted for the wall height and distance around the room.  When pricing "
+"is disabled (no custom dimensions) this calculator uses the product area "
+"attribute or otherwise the length and width attributes to determine the wall "
+"surface area."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:142
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:327
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:411
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:513
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:597
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:724
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:826
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:911
+msgid "Show Product Price Per Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:143
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:328
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:412
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:514
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:598
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:725
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:827
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:912
+msgid "Check this box to display product pricing per unit on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:149
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:334
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:418
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:520
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:604
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:731
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:833
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:918
+msgid "Pricing Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:150
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:335
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:419
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:521
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:605
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:732
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:834
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:919
+msgid "Label to display next to the product price (defaults to pricing unit)"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:157
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:342
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:426
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:528
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:612
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:739
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:841
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:926
+msgid "Pricing Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:159
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:344
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:428
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:530
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:614
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:741
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:843
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:928
+msgid "Unit to define pricing in"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:166
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:351
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:435
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:537
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:621
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:748
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:850
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:935
+msgid "Calculated Price"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:167
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:352
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:436
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:538
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:622
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:749
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:851
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:936
+msgid ""
+"Check this box to define product pricing per unit and allow customers to "
+"provide custom measurements"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:174
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:359
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:443
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:545
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:629
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:756
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:858
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:943
+msgid "Calculated Weight"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:175
+msgid ""
+"Check this box to define the product weight per unit and calculate the item "
+"weight based on the product dimension"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:182
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:367
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:451
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:553
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:637
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:764
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:866
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:951
+msgid "Calculated Inventory"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:183
+msgid ""
+"Check this box to define inventory per unit and calculate inventory based on "
+"the product dimension"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:195
+msgid "Length"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:196
+msgid "Select to display the product length in the price calculator"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:202
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:459
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:645
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:959
+msgid "Length Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:203
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:460
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:646
+msgid "Length input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:209
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:466
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:652
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:966
+msgid "Length Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:211
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:468
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:654
+msgid "The frontend length input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:217
+msgid "Length Editable"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:219
+msgid "Check this box to allow the needed length to be entered by the customer"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:225
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:475
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:661
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:975
+msgid "Length Options"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:226
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:270
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:314
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:399
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:476
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:501
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:585
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:662
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:687
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:712
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:789
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:814
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:898
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:976
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:1001
+msgid ""
+"Use a single number to set a fixed value for this field on the frontend, or "
+"a comma-separated list of numbers to create a select box for the customer to "
+"choose between.  Example: 1/8, .5, 2"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:239
+msgid "Width"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:240
+msgid "Select to display the product width in the price calculator"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:246
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:484
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:670
+msgid "Width Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:247
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:485
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:671
+msgid "Width input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:253
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:491
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:677
+msgid "Width Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:255
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:493
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:679
+msgid "The frontend width input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:261
+msgid "Width Editable"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:263
+msgid "Check this box to allow the needed width to be entered by the customer"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:269
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:500
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:686
+msgid "Width Options"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:283
+msgid "Height"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:284
+msgid "Select to display the product height in the price calculator"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:290
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:695
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:797
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:984
+msgid "Height Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:291
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:696
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:798
+msgid "Height input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:297
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:702
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:804
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:991
+msgid "Height Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:299
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:704
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:806
+msgid "The frontend height input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:305
+msgid "Height Editable"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:307
+msgid "Check this box to allow the needed height to be entered by the customer"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:313
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:711
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:813
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:1000
+msgid "Height Options"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:360
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:444
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:944
+msgid ""
+"Check this box to define the product weight per unit and calculate the item "
+"weight based on the product area"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:368
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:452
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:952
+msgid ""
+"Check this box to define inventory per unit and calculate inventory based on "
+"the product area"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:375
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:772
+msgid "Area Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:376
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:773
+msgid "Area input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:382
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:779
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:128
+msgid "Area Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:384
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:781
+msgid "The frontend area input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:390
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:576
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:889
+msgid "Editable"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:392
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:578
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:891
+msgid ""
+"Check this box to allow the needed measurement to be entered by the customer"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:398
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:788
+msgid "Area Options"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:546
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:630
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:757
+msgid ""
+"Check this box to define the product weight per unit and calculate the item "
+"weight based on the product volume"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:554
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:638
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:765
+msgid ""
+"Check this box to define inventory per unit and calculate inventory based on "
+"the product volume"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:561
+msgid "Volume Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:562
+msgid "Volume input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:568
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:151
+msgid "Volume Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:570
+msgid "The frontend volume input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:584
+msgid "Volume Options"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:859
+msgid ""
+"Check this box to use the customer-configured product weight as the item "
+"weight"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:867
+msgid ""
+"Check this box to define inventory per unit and calculate inventory based on "
+"the product weight"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:874
+msgid "Weight Label"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:875
+msgid "Weight input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:881
+msgid "Weight Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:883
+msgid "The frontend weight input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:897
+msgid "Weight Options"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:960
+msgid "Wall length input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:968
+msgid "The frontend wall length input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:985
+msgid "Room wall height input field label to display on the frontend"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-calculator.php:993
+msgid "The frontend room wall height input field unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:45
+msgid "Measurement Range"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:46
+msgid ""
+"Configure the starting-ending range, inclusive, of measurements to match "
+"this rule.  The first matched rule will be used to determine the price.  The "
+"final rule can be defined without an ending range to match all measurements "
+"greater than or equal to its starting range."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:49
+msgid "Price per Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:50
+msgid "Set the price per unit for the configured range."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:53
+msgid "Sale Price per Unit"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:54
+msgid "Set a sale price per unit for the configured range."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:92
+msgid "Add Rule"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanel-product_data-pricing_table.php:93
+msgid "Delete Selected"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:78
+msgid "g"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:79
+msgid "kg"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:80
+#: languages/strings.php:34
+msgid "t"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:81
+msgid "oz"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:82
+msgid "lbs"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:83
+#: languages/strings.php:35
+msgid "tn"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:109
+msgid "mm"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:110
+msgid "cm"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:111
+msgid "m"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:112
+#: languages/strings.php:36
+msgid "km"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:113
+msgid "in"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:114
+#: languages/strings.php:37
+msgid "ft"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:115
+#: languages/strings.php:38
+msgid "yd"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:116
+#: languages/strings.php:39
+msgid "mi"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:142
+#: languages/strings.php:44
+msgid "sq mm"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:143
+#: languages/strings.php:43
+msgid "sq cm"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:144
+#: languages/strings.php:42
+msgid "sq m"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:145
+#: languages/strings.php:40
+msgid "ha"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:146
+#: languages/strings.php:41
+msgid "sq km"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:147
+#: languages/strings.php:49
+msgid "sq. in."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:148
+#: languages/strings.php:48
+msgid "sq. ft."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:149
+#: languages/strings.php:47
+msgid "sq. yd."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:150
+#: languages/strings.php:45
+msgid "acs"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:151
+#: languages/strings.php:46
+msgid "sq. mi."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:177
+#: languages/strings.php:52
+msgid "ml"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:178
+#: languages/strings.php:51
+msgid "l"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:179
+#: languages/strings.php:50
+msgid "cu m"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:180
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:164
+#: languages/strings.php:56
+msgid "cup"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:181
+#: languages/strings.php:55
+msgid "pt"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:182
+#: languages/strings.php:54
+msgid "qt"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:183
+#: languages/strings.php:53
+msgid "gal"
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:184
+#: languages/strings.php:57
+msgid "fl. oz."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:185
+#: languages/strings.php:60
+msgid "cu. in."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:186
+#: languages/strings.php:59
+msgid "cu. ft."
+msgstr ""
+
+#: admin/post-types/writepanels/writepanels-init.php:187
+#: languages/strings.php:58
+msgid "cu. yd."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:92
+msgctxt "metric ton"
+msgid "t"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:95
+msgctxt "english ton"
+msgid "tn"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:107
+msgctxt "kilometer"
+msgid "km"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:111
+msgctxt "foot"
+msgid "ft"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:112
+msgctxt "yard"
+msgid "yd"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:113
+msgctxt "mile"
+msgid "mi"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:129
+msgid ""
+"This controls what unit you can define areas in for the Measurements Price "
+"Calculator."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:135
+msgctxt "hectare"
+msgid "ha"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:136
+msgctxt "square kilometer"
+msgid "sq km"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:137
+msgctxt "square meter"
+msgid "sq m"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:138
+msgctxt "square centimeter"
+msgid "sq cm"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:139
+msgctxt "square millimeter"
+msgid "sq mm"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:140
+msgctxt "acre"
+msgid "acs"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:141
+msgctxt "square mile"
+msgid "sq. mi."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:142
+msgctxt "square yard"
+msgid "sq. yd."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:143
+msgctxt "square foot"
+msgid "sq. ft."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:144
+msgctxt "square inch"
+msgid "sq. in."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:152
+msgid ""
+"This controls what unit you can define volumes in for the Measurements Price "
+"Calculator."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:158
+msgctxt "cubic meter"
+msgid "cu m"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:159
+msgctxt "liter"
+msgid "l"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:160
+msgctxt "milliliter"
+msgid "ml"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:161
+msgctxt "gallon"
+msgid "gal"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:162
+msgctxt "quart"
+msgid "qt"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:163
+msgctxt "pint"
+msgid "pt"
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:165
+msgctxt "fluid ounce"
+msgid "fl. oz."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:166
+msgctxt "cubic yard"
+msgid "cu. yd."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:167
+msgctxt "cubic foot"
+msgid "cu. ft."
+msgstr ""
+
+#: admin/woocommerce-measurement-price-calculator-admin-init.php:168
+msgctxt "cubic inch"
+msgid "cu. in."
+msgstr ""
+
+#: classes/class-wc-price-calculator-cart.php:114
+msgid "%s missing"
+msgstr ""
+
+#: classes/class-wc-price-calculator-cart.php:135
+msgid ""
+"No price available for a product with this measurement, please contact the "
+"store for assistance."
+msgstr ""
+
+#: classes/class-wc-price-calculator-cart.php:661
+#: templates/single-product/price-calculator.php:36
+msgid "Total %s (%s)"
+msgstr ""
+
+#: classes/class-wc-price-calculator-inventory.php:206
+msgid "Only %s %s left in stock"
+msgstr ""
+
+#: classes/class-wc-price-calculator-inventory.php:206
+msgid "In stock"
+msgstr ""
+
+#: classes/class-wc-price-calculator-inventory.php:209
+msgid "%s %s in stock"
+msgstr ""
+
+#: classes/class-wc-price-calculator-inventory.php:216
+msgid "(backorders allowed)"
+msgstr ""
+
+#: classes/class-wc-price-calculator-inventory.php:251
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: classes/class-wc-price-calculator-product-loop.php:91
+msgid "Select options"
+msgstr ""
+
+#: classes/class-wc-price-calculator-product.php:466
+#: classes/class-wc-price-calculator-product.php:473
+#: classes/class-wc-price-calculator-settings.php:483
+#: classes/class-wc-price-calculator-settings.php:487
+msgid "Free!"
+msgstr ""
+
+#: classes/shortcodes/class-wc-price-calculator-shortcode-pricing-table.php:97
+msgid "Range (%s)"
+msgstr ""
+
+#: classes/shortcodes/class-wc-price-calculator-shortcode-pricing-table.php:98
+msgid "Price (%s)"
+msgstr ""
+
+#: templates/single-product/price-calculator.php:42
+#: templates/single-product/quantity-calculator.php:43
+msgid "%s (%s)"
+msgstr ""
+
+#: templates/single-product/price-calculator.php:61
+msgid "Product Price"
+msgstr ""
+
+#: templates/single-product/quantity-calculator.php:36
+msgid "Actual %s (%s)"
+msgstr ""
+
+#: templates/single-product/quantity-calculator.php:49
+msgid "Total Price"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Measurement Price Calculator"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/measurement-price-calculator/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WooCommerce plugin to provide price and quantity calculations based on "
+"product measurements"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.skyverge.com"
+msgstr ""

@@ -1,0 +1,1109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <title>YA Framework</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Description">
+        <meta name="author" content="Autor">
+    
+        <!-- loading the css -->
+        <link href="assets/css/bootstrap.css" rel="stylesheet">
+        <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
+
+        <link href="assets/js/google-code-prettify/prettify.css" rel="stylesheet">
+        
+		<style type="text/css">
+        body {
+            padding-bottom: 40px;
+        }
+		
+		section {padding: 60px 0 0 0;}
+        </style>
+        
+        <!--[if lt IE 9]>
+          <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+    
+        <!-- Various Icons (Favicon, Touch Icon,... -->
+        <link rel="shortcut icon" href="assets/img/favicon.ico">
+        <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.png">
+        
+    </head>
+    
+    
+        
+    <body data-spy="scroll" data-target=".navbar" id="top">
+    
+        <!-- ========================= NAVIGATION BAR >> START ========================= -->
+        <div class="navbar navbar-fixed-top navbar-inverse">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a> 
+                    <a class="brand" href="#overview">YA Framework</a>
+                    <div class="nav-collapse">
+                        <ul class="nav">
+                            <li><a href="#overview">Overview</a></li>
+                            <li><a href="#css">Styles</a></li>
+                           	<li><a href="#js">JavaScript</a></li>
+                           	<li><a href="#layout">Layout</a></li>
+							<li><a href="#installation">Installation</a></li>                            
+                            <li><a href="#shortcodes">Shortcodes</a></li>
+                            <li><a href="#themeoptions">Theme Options</a></li>
+                            <li><a href="#menus">Menus</a></li>
+                            <li><a href="#widgets">Widgets</a></li>
+                            <li><a href="#download">Download</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- ========================= NAVIGATION BAR >> END ========================= -->
+    
+    
+    
+        <!-- ========================= MAIN CONTAINER >> START ========================= -->
+        <div class="container">
+        
+            <!-- ========================= SECTION: OVERVIEW >> START ========================= -->
+            <div id="overview">
+            
+                <div class="hero-unit">
+                    <h1>YA Framework Documentation</h1>
+                    <p> Another Framework for <a href="http://wordpress.org" target="_blank">Wordpress</a> created by <a href="http://www.smartaddons.com/" target="_blank">The Youtech Company</a></p>
+                    <p>Simple, flexible and responsive theme framework for developer, blogger.</p>
+                    <p class="well well-small">Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="#">here</a>. Thanks so much!</p>
+					<p>In this version, we have updated framework to bootstrap 3!</p>
+                    <!--<div class="row-fluid">
+                        <div class="span3"><a href="#ticket" class="btn btn-primary btn-large btn-block">Support Ticket</a></div>
+                        <div class="span3"><a href="#forum" class="btn btn-inverse btn-large btn-block">Support Forum</a></div>
+                        <div class="span3"><a href="#changelog" role="button" class="btn btn-success btn-large btn-block" data-toggle="modal">Changelog</a></div>
+                        <div class="span3"><a href="#credits" role="button" class="btn btn-info btn-large btn-block" data-toggle="modal">Credits</a></div>
+                    </div>-->
+    
+                </div>
+                
+                <hr>
+                
+                <div class="row-fluid">
+                    <div class="span3">
+                        <table width="100%">
+                            <tr>
+                                <td>Author:</td>
+                                <td>Author Name</td>
+                            </tr>
+                            <tr>
+                                <td>Contact:</td>
+                                <td><a href="#nowhere">contact@ytcvn.com</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="span3">
+                        <table width="100%">
+                            <tr>
+                                <td>Author URL:</td>
+                                <td><a href="http://www.smartaddons.com/">http://www.smartaddons.com/</a></td>
+                            </tr>
+                            <tr>
+                                <td>Item URL:</td>
+                                <td><a href="http://smartaddons.com/demo/templates/wordpress/framework">http://smartaddons.com/demo/templates/wordpress/framework</a></td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="span3">
+                        <table width="100%">
+                            <tr>
+                                <td>Current Version:</td>
+                                <td>2.0.0</td>
+                            </tr>
+                            <tr>
+                                <td>Documentation Version</td>
+                                <td>1.1.0</td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="span3">
+                        <table width="100%">
+                            <tr>
+                                <td>Created:</td>
+                                <td>2013-07-24</td>
+                            </tr>
+                            <tr>
+                                <td>Modified:</td>
+                                <td>2013-10-09</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
+                
+                <hr>
+                
+            </div>
+            <!-- ========================= SECTION: OVERVIEW >> END ========================= -->
+
+
+          
+            <!-- ========================= SECTION: MARKUP >> START ========================= -->
+            <div id="markup">
+                <div class="page-header">
+                    <h1>Markup <small>Markup customization and highlights</small></h1>
+                </div>
+            
+                <div class="alert"> <a class="close" data-dismiss="alert">×</a> <strong>Warning!</strong> Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.. </div>
+                <p>This theme is a fixed layout with two columns. All of the information within the main content area is nested within a div with an id of "primaryContent". The sidebar's (column #2) content is within a div with an id of "secondaryContent".</p>
+            
+                <hr />
+            
+                <div class="row">
+                    <div class="span3">
+                        <h3>General Markup</h3>
+                        <p> The general template structure is the same throughout the template. Here is the general structure.</p>
+                    </div>
+            
+                    <div class="span9"> 
+
+<!-- Code Block >> Start -->                   
+<pre class="prettyprint linenums">&lt;!DOCTYPE html PUBLIC &quot;-//W3C//DTD HTML 4.01//EN&quot;
+&quot;http://www.w3.org/TR/html4/strict.dtd&quot;&gt;
+
+&lt;html lang=&quot;en&quot;&gt;
+&lt;head&gt;
+&lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=utf-8&quot;&gt;
+&lt;title&gt;untitled&lt;/title&gt;
+&lt;meta name=&quot;generator&quot; content=&quot;TextMate http://macromates.com/&quot;&gt;
+&lt;meta name=&quot;author&quot; content=&quot;Ivor Padilla&quot;&gt;
+&lt;!-- Date: 2012-03-08 --&gt;
+&lt;/head&gt;
+&lt;body&gt;
+
+&lt;/body&gt;
+&lt;/html&gt;</pre>
+<!-- Code Block >> End -->                   
+
+                    </div>
+                </div>
+            
+                <hr />
+            
+                <div class="row">
+                    <div class="span3">
+                        <h3>How To Edit Color</h3>
+                        <p>If you would like to edit the color, font, or style of any elements in one of these columns, you would do the following:</p>
+                    </div>
+                
+                    <div class="span9">
+
+<!-- Code Block >> Start -->                   
+<pre class="prettyprint linenums">#primaryContent a {
+  color: #someColor;
+}</pre>
+<!-- Code Block >> End -->                   
+
+                    </div>
+                </div>
+            
+                <hr />
+            
+                <div class="row">
+                    <div class="span3">
+                        <h3>Change Structure</h3>
+                        <p>If you find that your new style is not overriding, it is most likely because of a specificity problem. Scroll down in your CSS file and make sure that there isn't a similar style that has more weight.</p>
+                    </div>
+                
+                    <div class="span9">
+
+<!-- Code Block >> Start -->                   
+<pre class="prettyprint linenums">#wrap #primaryContent a {
+  color: #someColor;
+}</pre>
+<!-- Code Block >> End -->                   
+
+                    </div>
+                </div>
+            </div>
+            <!-- ========================= SECTION: MARKUP >> END ========================= -->
+            
+
+
+            <!-- ========================= SECTION: STYLES >> START ========================= -->
+            <div id="css">
+                <div class="page-header">
+                    <h1>Styles <small>Styles customization and highlights</small></h1>
+                </div>
+            
+                <div class="alert alert-info"> <b>Heads up!</b> I'm using two CSS files in this theme. The first one is a generic reset file. Many browser interpret the default behavior of html elements differently. By using a general reset CSS file, we can work round this. This file also contains some general styling, such as anchor tag colors, font-sizes, etc. Keep in mind, that these values might be overridden somewhere else in the file. </div>
+            
+                <div class="row">
+                    <div class="span3">
+                        <h3>Stylesheets</h3>
+                        <p>Here's a list of the stylesheet files I'm using with this template, you can find more information opening each file:</p>
+                    </div>
+                    <div class="span9">
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>File Name</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td><code>app-default.css</code></td>
+                                    <td>Framework default stylesheet</td>
+                                </tr>
+                                <tr>
+                                    <td><code>app-black.css</code></td>
+                                    <td>Black color stylesheet</td>
+                                </tr>
+                                <tr>
+                                    <td><code>app-green.css</code></td>
+                                    <td>Green color stylesheet</td>
+                                </tr>                               
+                                <tr>
+                                    <td><code>app-responsive.css</code></td>
+                                    <td>Reponsive works</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <hr />
+                
+                <div class="row">
+                    <div class="span3">
+                        <h3>CSS Structure</h3>
+                        <p>The second file contains all of the specific stylings for the page. The file is separated into sections using:</p>
+                    </div>
+                
+                    <div class="span9">
+                    
+<!-- Code Block >> Start -->                   
+<pre class="pre-scrollable prettyprint linenums">/* === Header Section === */
+
+some code
+
+/* === Main Section === */
+
+some code
+
+/* === Sidebar Section === */
+
+some code
+
+/* === Footer === */
+
+some code
+
+etc, etc.</pre>
+<!-- Code Block >> End -->                   
+
+                    </div>
+                </div>
+                
+            </div>
+            <!-- ========================= SECTION: STYLES >> END ========================= -->
+            
+            
+            
+            <!-- ========================= SECTION: JAVASCRIPT >> START ========================= -->
+            <div id="js">
+            
+                <div class="page-header">
+                    <h1>JavaScript <small>JavaScript customization and highlights</small></h1>
+                </div>
+                
+                <div class="row">
+                    <div class="span3">
+                        <h3>JavaScript Files</h3>
+                        <p>These are the various attribution links to the Javascript files included or 
+modified to work with in this theme.</p>
+                    </div>
+                    <div class="span9">
+                        <table class="table table-bordered table-striped">
+                            <thead>
+                                <tr>
+                                    <th>Tag</th>
+                                    <th>Description</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                         
+							<tr>
+								<td><code>bootstrap.js</code></td>
+								<td><a href="http://twitter.github.io/bootstrap/javascript.html">http://twitter.github.io/bootstrap/javascript.html</a></td>
+							</tr>
+							<tr>
+								<td><code>bootstrap.min.js</code></td>
+								<td><a href="http://twitter.github.io/bootstrap/javascript.html">http://twitter.github.io/bootstrap/javascript.html</a></td>
+							</tr>
+							<tr>
+								<td><code>bootstrap-image-gallery.min.js</code></td>
+								<td><a href="http://twitter.github.io/bootstrap/javascript.html">http://twitter.github.io/bootstrap/javascript.html</a></td>
+							</tr>
+							
+							<tr>
+								<td><code>jquery.cslider.js</code></td>
+								<td>Cslider powers the responsive slider on the homepage</td>
+							</tr>
+							
+							<tr>
+								<td><code>load-image.min.js</code></td>
+								<td>jQuery is a Javascript library that greatly reduces the
+									amount of code that you must write.</td>
+							</tr>
+							<tr>
+								<td><code>main.js</code></td>
+								<td>The theme's main JavaScript file, heavily commented</td>
+							</tr>
+							<tr>
+								<td><code>modernizr-2.6.2.min.js</code></td>
+								<td><a href="http://modernizr.com/">Modernizr</a> provides feature detection, HTML5 support for old browsers</td>
+							</tr>
+							<tr>
+								<td><code>photobox.js</code></td>
+								<td> <a href="http://dropthebit.com/demos/photobox/">Photobox</a> powers the gallery lightbox</td>
+							</tr>
+							<tr>
+								<td><code>plugins.js</code></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td><code>ya_googlemap.js</code></td>
+								<td></td>
+							</tr>
+							<tr>
+								<td><code>ya_shortcodes_tinymce.js</code></td>
+								<td></td>
+							</tr>			
+							
+						</tbody>
+                        </table>
+                    </div>
+                </div>
+                
+                <hr />
+                
+                <div class="row">
+                    <div class="span3">
+                        <h3>Customize Slider</h3>
+                        <p>If you want to change the slider's speed transition, open up the file <code> scripts.js </code> and change the following code: </p>
+                    </div>
+                    <div class="span9">
+                    
+<!-- Code Block >> Start -->                   
+<pre class="prettyprint js linenums:103">/* ---------- @ SlidesJS -----------*/
+$(&#x27;#banner&#x27;).slides({
+  preload: true,
+  generateNextPrev: true,
+  autoHeight: true,
+  effect: &quot;slide&quot;,
+  play: 5000
+});</pre>
+<!-- Code Block >> End --> 
+                  
+                    </div>
+                </div>
+                
+            </div>
+            <!-- ========================= SECTION: JAVASCRIPT >> END ========================= -->
+
+
+
+            <!-- ========================= SECTION: PSD >> START ========================= -->
+            <div id="layout">
+                <div class="page-header">
+                    <h1>Layout Builder <small> Here positions in this framework where you can control how your website display </small></h1>
+                </div>
+				With 6 available layouts and 7 expands for slidebar, your site will be configured easier without wasting time.
+                <img src="image/Position.jpg"/>
+                
+                
+            </div>
+            <!-- ========================= SECTION: PSD >> START ========================= -->
+            
+            
+            
+            <!-- ========================= SECTION: INSTALLATION >> START ========================= -->
+            <div id="installation">
+                <div class="page-header">
+                    <h1>Installation <small>How to Install the Template</small></h1>
+                </div>
+                
+                <div class="row">
+                    <div class="span3">
+                        <h3>1. Install Theme</h3>
+                        <p>Here's a brief information about how to install your WordPress theme from scratch</p>
+                    </div>
+    
+                    <div class="span9">
+                        <div class="accordion" id="accordion2">
+                            <div class="accordion-group">
+                                <div class="accordion-heading"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne"> 1.1) Install WordPress </a> </div>
+                                <div id="collapseOne" class="accordion-body collapse">
+                                    <div class="accordion-inner">
+										<ul>
+                                        <li>Sign up for web hosting if you do not already have hosting (recommended hosts).
+										<li>Make a new installation of the latest version of WordPress on your hosting</li> account. If you're new to all this, see Installing WordPress and New to WordPress. Some hosts have an auto-install feature.</li>
+										<li>If you will be replacing a WordPress site, make a complete backup first.</li>
+										</ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-group">
+                                <div class="accordion-heading"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo"> 1.2) Upload and Activate Theme </a> </div>
+                                <div id="collapseTwo" class="accordion-body collapse in">
+                                    <div class="accordion-inner">
+										<ul>
+                                        <li>Log into your WordPress dashboard and navigate to Appearance > Themes > Install Themes > Upload.</li>
+										<li>Choose the zip file you downloaded then click install.
+										If you receive an error saying the file is too big.</li>
+										<li>After installation, click Activate.</li>
+										</ul>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="accordion-group">
+                                <div class="accordion-heading"> <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree"> 1.3) Installing simple content </a> </div>
+                                <div id="collapseThree" class="accordion-body collapse in">
+                                    <div class="accordion-inner">
+                                        To install the Sample Content
+											<ul>
+											<li>Go Dashboard > Tools > Import > WordPress</li>
+											
+											<li>Install the plugin.</li>
+											<li>Use it to upload the sample content XML file .</li>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+    
+                </div>
+
+            </div>
+            <!-- ========================= SECTION: INSTALLATION >> END ========================= -->
+
+
+           
+            <!-- ========================= SECTION: Shortcode >> START ========================= -->
+            <div id="shortcodes">
+                <div class="page-header">
+                    <h1>Shortcodes</h1>
+					<p>Shortcodes make it simple to insert elements like buttons, boxes, columns etc. without any knowledge how to code HTML. Shortcodes work in posts and pages .
+					<br><br>
+					<img src="image/shortcode.png"></img>
+					</p>
+                </div>
+               <div class="shortcode">
+					<h3>Icon</h3>
+					<div class="icon">
+						<p>
+							Use Font Awesome, the iconic font designed for Bootstrap. Font Awesome gives you scalable vector icons that can instantly be customized — size, color, drop shadow, and anything that can be done with the power of CSS.
+						<p>
+						<p>Get the code: <code>[icon name="icon-glass" type="icon-4x" tag="i" color="red" ]</code></p>
+						<ul>
+							<li>name: Name of icon or icon class, reference at http://fontawesome.io/icons/. Accept “ICONNAME” without prefix “icon-”.</li>
+
+							<li>type: icon-4x/icon-3x/icon-2x</li>
+
+							<li>tag: html tag name to render icon</li>
+
+							<li>color: color of icon, if not set, default text color of site style will effected. </li>
+						</ul>
+					</div>
+				
+					<h3>Button</h3>
+					<div class="button">
+						<p>
+						The [button] shortcode can be used to make small and large buttons of various colors.<br><br>
+						Get the code: <code>[button id="" class="btn" type="primary" target="" href="#" tag="span"]link[/button]</code><p>
+						<ul>
+						<li>type: size and color of button; large, small, mini for sizing; primary, danger, warning, success, info, inverse for color. </li>
+
+						<li>tag:html tag name to render button </li>
+
+						<li>target và href: Use when <em>tag="a"</em></li>
+						</ul>
+
+						<strong>Size</strong>
+						<p>Utilize the extra button types<em> type="large"</em>, <em>type="small"</em>, or <em>type="mini </em>" for sizing.</p>
+
+					</div>
+					
+					<h3>Alert</h3>
+					<div class="alert">
+						<p>Alerts Styles for success, warning, and error messages</p>
+
+						<p>Get the code: <code>[alert class="alert" type="success" dismiss="true" tag="div"][/alert]</code></p>
+
+						<p>- type: block/success/error/infomation.</p>
+
+						<p>- dismiss: true/false</p>
+
+						<p>
+							<strong>Default alert</strong>
+							<code>[alert class="alert" type="block" dismiss="true" tag="div"]Wrap any text and an optional dismiss button in .alert for a basic warning alert message.[/alert]</code>
+						</p>
+
+						<p><strong>Dismiss buttons</strong>
+							<code>[alert class="alert" type="block" dismiss="false" tag="div"]Wrap any text and an optional dismiss button in .alert for a basic warning alert message.[/alert]</code>
+						</p>
+					</div>
+					<h3>Google maps</h3>
+					<div class="google-maps">
+						You can embed a custom Google Map using the [googlemaps] shortcode.<br><br>
+						Get the code: <code>[googlemaps title="Envato Office" location="Hoan Kiem District, Hanoi, Vietnam" zoom="10" Width="100%" height=350]</code>
+					</div>
+					
+					<h3>Slideshow</h3>
+					<div class="slideshow">
+						<p>With the built-in, you can insert awesome image everywhere, just use the Code provided when Adding a Slideshow.</p>
+						<ul>
+						<li>Get the code: <code>[slideshow ids="" caption="" size="" interval="" event="" class=""]</code></li>
+
+						<li>ids: id of attachment.</li>
+
+						<li>caption: true/false.</li>
+
+						<li>size: thumbnail/medium/large.</li>
+
+						<li>interval: The amount of time to delay between automatically cycling an item. If false, carousel will not automatically cycle.</li>
+
+						<li>event: slide/slid.</li>
+
+						<li>
+							class: You can custom with your class you put in. 
+							<p>- Tiny grid (<768 px)	: .col-xs-*</p>
+							<p>- Small grid (>768 px) 	: .col-sm-*</p>
+							<p>- Medium grid (>992 px) 	: .col-md-*</p>
+							<p>- Large grid (>1200 px) 	: .col-lg-*</p>
+							<p><span style="color: red;font-size: 18px;">*</span> : Number of column(s) ( from 1 - 12 )</p>
+						</li>
+						</ul>
+					</div>
+					
+					<h3>Collapse</h3>
+					<div class="collapse">
+						<p>Get base styles and flexible support for collapsible components like accordions and navigation.</p>
+						<ul>
+							Get the code: <br/>
+							<code>
+								[collapses class="collapses" tag="div"]</code><br/>
+									&nbsp;&nbsp;<code>[collapse title="Section 1"]Accordion Content 1[/collapse]</code><br/>
+									&nbsp;&nbsp;<code>[collapse title="Section 2"]Accordion Content 2[/collapse]</code><br/>
+									&nbsp;&nbsp;<code>[collapse title="Section 3"]Accordion Content 3[/collapse]</code><br/>
+								<code>[/collapses]
+							</code>
+						<li>class: as <em>“name”</em> above function.</li>
+						<li>tag: html tag name to render icon.</li>
+
+						<li>title: as name of each above content. [collapse]</li>
+						</ul>
+					</div>
+					
+					<h3>Tabs</h3>
+					<div class="tab">
+						<ul>
+							Wrap multiple [tab] shortcodes with the [tabs] shortcode.<br><br>
+							Get the code:<br/>
+							<code>
+								[tabs possition="top" class="tabs" tag="div"]</code><br/>
+									&nbsp;&nbsp;<code>[tab title="Section 1"]Tab Content 1[/tab]</code><br/>
+									&nbsp;&nbsp;<code>[tab title="Section 2"]Tab Content 2[/tab]</code><br/>
+									&nbsp;&nbsp;<code>[tab title="Section 3"]Tab Content 3[/tab]</code><br/>
+								<code>[/tabs]
+							</code><br/>
+						
+						<li>position: top/right/bottom/left</li>
+
+						<li>class: as <em>“name”</em> above function.</li>
+						<li>tag: html tag name to render icon.</li>
+
+						<li>title: title of tab</li>
+						</ul>
+					</div>
+					<h3>Columns</h3>
+					<div class="columns">
+						<ul>
+							Display content such as columns reponsive.<br><br>
+							Get the code: <br/>
+							<code>
+								[row tag="div"] </code><br/>
+									&nbsp;&nbsp;<code>[col class="" tag="div" large="" medium="" small="" xsmall=""]Content[/col]</code> <br/>
+									&nbsp;&nbsp;<code>[col class="" tag="div" large="" medium="" small="" xsmall=""]Content1[/col]</code> <br/>
+									<code>...</code></br />
+								<code>[/row]
+							</code><br/>
+						<li>class: as <em>“name”</em> above function.</li>
+						<li>tag: html tag name.</li>
+						<li>large	: Number of column(s) in large grid ( > 1200px ). </li>
+						<li>medium	: Number of column(s) in medium grid ( > 992px ).</li>
+						<li>small	: Number of column(s) in small grid ( > 768px ).</li>
+						<li>xsmall	: Number of column(s) in tiny grid ( < 768px ).</li>
+						<li>Number of columns : From 1 to 12. </li>
+						</ul>
+					</div>
+					<h3>Pricing Table</h3>
+					<div class="pricing-table">
+						<ul>
+							This template contains pricing shortcode. You just select shortcode to display.<br><br>
+							Get the code: <br/>
+							<code>
+								[pricing_table style="style2"]</code><br/>
+									&nbsp;&nbsp;<code>[pricing style="style2" featured="no" description="Instant access, all resources." plan="Premium Plus" cost="$75.00" per="/mo" button_url="#" <br/>button_text="Sign up now" button_target="self" button_rel="nofollow"]Content[/pricing]</code><br/>
+									&nbsp;&nbsp;<code>[pricing style="style2" featured="no" description="Business standard." featured="yes" plan="Professional" cost="$45.00" per="/mo" button_url="#"<br/> button_text="Sign up now" button_target="self" button_rel="nofollow"]Content[/pricing]</code><br/>
+									&nbsp;&nbsp;<code>[pricing style="style2" featured="no" description="Just give it a try." plan="Basic(free)" cost="Freemium" per="" button_url="#" <br/>button_text="Sign up now" button_target="self" button_rel="nofollow"]Content[/pricing]</code><br/>
+								[/pricing_table]
+							</code><br/>
+							<li>style	: have 2 styles: style1 (3 columns) and style2(5 columns).</li>
+							<li>featured	: have 2 value: yes or no.</li>
+							<li>description	: Description of pricing column.</li>
+							<li>plan		: Title of pricing column.</li>
+							<li>cost 		: Price of pricing column.</li>
+							<li>per 		: Price per day, week, month or year.</li>
+							<li>button_url 	: Url of the button.</li>
+							<li>button_text : Title of buttom.</li>
+							<li>button_target : The target attribute specifies where to open the linked document (self, blank, parent, top)</li>
+							<li>size : When style is style1, size will has value: one-five.</li>
+							<li>button_color : When style is style1, you can choose color of pricing button.</li>
+							
+						</ul>
+					</div>
+					<h3>FAQs</h3>
+					<div class="FAQs">
+						<ul>
+							The FAQ example is using the tabs, collapse shortcode in the body text.<br><br>
+							Get the code: <br/>
+							<code>
+								[tabs position="top" class="tabs" tag="div"] </code><br/>
+									&nbsp;&nbsp;<code>[tab title="title tab1"] </code><br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>[collapses class="collapses" tag="div"]</code> <br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>[collapse title="Question 1"]Answer 1[/collapse]</code> <br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>[collapse title="Question 2"]Answer 2[/collapse]</code> <br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>...</code> <br/>
+									&nbsp;&nbsp;<code>[/tab] </code><br/>
+									&nbsp;&nbsp;<code>[tab title="title tab2"]</code> <br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>[collapses class="collapses" tag="div"]</code><br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>[collapse title="Question 1_2"]Answer 1_2[/collapse] </code><br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>[collapse title="Question 2_2"]Answer 2_2[/collapse] </code><br/>
+										&nbsp;&nbsp;&nbsp;&nbsp;<code>...</code> <br/>
+									&nbsp;&nbsp;<code>[/tab]</code> <br/>
+									&nbsp;&nbsp;<code>...</code> <br/>
+								<code>[/tabs]
+							</code><br/>
+						</ul>
+					</div>
+					<h3>Tooltip</h3>
+					<div class="tooltips">
+						<ul>
+							Shortcode show tooltip with content and postition of tooltip.<br><br>
+							Get the code: <br/>
+							<code>[ya_tooltip content="content" orient="top"]Title[/ya_tooltip] </code><br/>
+							<li>- content: Content of the tooltip.</li>
+							<li>- orient: Position of the tooltip(left, right, top, bottom).</li>
+						</ul>
+					</div>
+					<h3>Modal</h3>
+					<div class="Modals">
+						<ul>
+							Get the code:<br/>
+							<code>[ya_modal label="title" header="header" close="close" save="save"]Content[/ya_modal]</code><br/>
+							<li>- Label: label of button launch.</li>
+							<li>- Header:  Title will show in modal header.</li>
+							<li>- Close: Label of button close.</li>
+							<li>- Save: Label of button save.</li>
+						</ul>
+					</div>
+					<h3>Recent post slider</h3>
+					<div class="Modals">
+						<ul>
+							Show recent post as slider <br/></br>
+							Get the code:<br/>
+							<code>[ya-recent-posts limit="6" title="Recent posts" num_column="3" id="1"]</code><br/>
+							<li>-Limit: the number of posts to show.</li>
+							<li>-Title: The title of header slider.</li>
+							<li>-Num_column: the number of columns to show.</li>
+							<li>-Id: The ID to show many slider recent posts (each slider have one  ID).</li>
+
+						</ul>
+					</div>
+                </div>
+            </div>
+            <!-- ========================= SECTION: Shortcode >> END ========================= -->
+			
+			<!-- ========================= SECTION: Theme Options >> START ========================= -->
+            <div id="themeoptions">
+                <div class="page-header">
+                    <h1>Theme Options</h1>
+                </div>
+				<div class="theme-options">
+					<ul style="list-style:none">
+						<li><h3>General</h3>
+							<p>Go to Apperance -> Theme options. And here the general setting that you to configure before your site ready to go<br><br>
+							<img src="image/general.png"></img>
+							</p>
+							<h4><i>Description</i></h4>
+							<ol>
+								<li><b>Color Scheme</b>: Select one of the many predefined schemes</li>
+								<li><b>Favicon Icon</b>: Use the Upload button to upload the new favicon and get URL of the favicon</li>
+								<li><b>Responsive Support</b>: Ya framework support reponsive layout, if you don't want to use this function, please uncheck.</li>
+								<li><b>Logo Image</b>: Use the Upload button to upload the new logo and get URL of the logo</li>
+							</ol>
+						</li>
+						<li><h3>Navbar options</h3>
+							<p>If you got a big site with a lot of sub menus we recommend using a mega menu. Just select the dropbox to display a menu as mega menu or dropdown menu.<br><br>
+							<img src="image/navbar.png"></img>
+							</p>
+							
+						</li>
+						<li><h3>Layout</h3>
+							<p>The Theme comes with a layout setting that allows you to build any number of stunning layouts and apply theme to your entries.<br><br>
+							<img src="image/layout.png"></img>
+							</p>
+							<h4><i>Description</i></h4>
+							<ol>
+								<li>
+									<p><b>Content Layout</b>: Select layout display</p>
+									<ul>
+										<li>No Sidebar</li>
+										<li>Left Main</li>
+										<li>Main Right</li>
+										<li>Left Right Main</li>
+										<li>Main Left Right</li>
+										<li>Left Main Right</li>
+									</ul>
+								</li>
+								<li><b>Left Sidebar Expand</b>: Select width of left sidebar.</li>
+								<li><b>Right Sidebar Expand</b>: Select width of right sidebar.</li>
+								<li><b>Left Sidebar Medium Desktop Expand</b>: Select width of left sidebar in medium grid.</li>
+								<li><b>Right Sidebar Medium Desktop Expand</b>: Select width of right sidebar in medium grid.</li>
+								<li><b>Left Sidebar Tablet Expand</b>: Select width of left sidebar in small grid .</li>
+								<li><b>Right Sidebar Tablet Expand</b>: Select width of right sidebar in small grid.</li>
+							</ol>
+						</li>
+						<li>
+						<h3>Typography</h3>
+						<p>We choose Google Web Fonts to bring quality typography to your website.
+You can select font family that we have already prepared. However, if you want to use other fonts, please follow description below.
+							<br><br>
+							<img src="image/typography.png"></img>
+						</p>
+						<h4><i>Description</i></h4>
+						<ul>
+							<ol>
+								<li><b>Use Google Webfont:</b> Insert font style that you actually need on your webpage </li>
+								<li><b>Webfont Weight:</b> For weight, see <a href="http://www.google.com/fonts/#">Google Fonts</a></li>
+								<li><b>Webfont Character Set:</b> Choose the character sets you want</li>
+								<li><b>Webfont Assign to:</b> Select the place will apply the font style
+									<ul>
+										<li>Headers: Change font of heading(h1, h2, h3, h4, h5, h6)</li>
+										<li>Everywhere</li>
+										<li>Custom </li>
+									</ul>
+								</li>
+								<li><b>Webfont Custom Selector</b>: This field will set area where is affected when choosing “Webfont Assign to = Custom”</li>
+							</ol>
+						</ul>
+						</li>
+						<li>
+						<h3>Social share</h3>
+						<p>
+						Social sharing is ready to use and built in. You can share your pages with just a click and your post can go to their wall and you can gain vistitors from Social Networks. Check Social networks that you want to use.
+						<br><br>
+						<img src="image/social.png"></img>
+						</p>
+						</li>
+						<li>
+						<h3>Advanced</h3>
+						<p>Change the font style of your blog.
+							<br><br>
+							<img src="image/advanced.png"></img>
+						</p>
+						<ul>
+							<ol>
+								<li><b>Show cPanel</b>: Turn on/off Cpanel.</li>
+								<li><b>Widget Advanced</b>: </li>
+								<li><b>Developer Mode</b>: </li>
+								<li><b>Google Analytics ID</b>: Enter Google Analytics code.</li>
+								<li><b>Custom CSS/JS</b>: Insert your own CSS into this block. This overrides all default styles located throughout the theme</li>
+							</ol>
+						</ul>
+						</li>
+					</ul>
+
+				</div>
+			</div>
+			<!-- ========================= SECTION: Theme Options >> END ========================= -->
+			<!-- ========================= SECTION: Menu >> START ========================= -->
+			<div id="menus">
+				<div class="page-header">
+                    <h1>Menus</h1>
+                </div>
+				<div class="menus">
+				Support 2 custom menu: 
+				<ul style="list-style:none">
+					<li>
+						<h3>Dropdown menu</h3>
+						<p></p>
+					</li>
+						
+					<li><h3>Mega menu</h3>
+						<p>Support to enhance the Wordpress default menu system, with a variety of useful features to edit menus and give theme a unique look.<br>
+						The advanced options allow the user to gain more control over the design of menus. The user can make several columns in menus, divide those columns and place their alignment as left and right as required by your website</p>
+						
+						<ol>
+							<li><h4>Creat menu</h4>
+								<p>YA Framework support for new Wordpress menu system, to manage your main menu items, please bellow step.<br>
+								Go to Apperance -> Menus, first you need to creat menu place for Main Navigation, for more detail please follow this image:<br><br>
+								<img src="image/creat-menu.png" align="center"></img>
+								</p>
+								
+							</li>
+							<li>
+								<h4>Manage and ordering your menu items</h4>
+								<p>
+								<img src="image/top-level.png" align="center"></img>
+								<img src="image/sub-menu.png" align="center"></img>
+								</p>
+								<h4><i>Description</i></h4>
+								<ol>
+									<li><b>Icon:</b> <p>Using icon-* class to display Icon for any menu item with Font Awesome intergrated.
+									Refercence Font Awesome for details</p></li>
+									<li><b>Dropdown Size:</b> 
+									<p>
+									- Only for menu items level 1<br>
+									- Validate values are span1, span2, …, span12. These are fully compatible with Bootstrap Style.<br>
+									- If ‘None’ is selected, default dropdown-menu (as Dropdown) will be display.<br>
+									- If this item has no child menu item, this config have no efftected for anything.<br>
+									</p>
+									</li>
+									<li><b>Dropdown Align: </b>
+									<p>
+									- Only for menu items level 1<br>
+									- If you want dropdown (if have) align by right direction, config it to ‘Right’ instead of ‘Left’ or ‘Default’<br>
+									- ‘Default’: no class be add to dropdown, everything are nature by default css.<br>
+									- ‘Left’ / ‘Right’: add to dropdown an utility class for float it left/ right. Make it align as you want.
+									</p>
+									</li>
+									<li><b>Show Description as Subtitle</b>
+										<p>
+											- Mean as the name.<br>
+											- Description is core attribute of menu item. You may need check to show it in the metabox screen.
+										</p>
+									</li>
+									<li><b>Hide Title</b>
+										<p>
+											Sometime you need hide the title of menu, select ‘Yes’ value please. In this case, Icon or Subtitle or Advanced Content are need to show as replacer.
+										</p>
+									</li>
+									<li><b>Advanced</b>
+										<p>
+											- Some advanced functions are placed here.<br>
+											- ‘Default’: NOOP, do nothing. Sure, it is not advanced <br>
+											- ‘Use as Divider’: Show any icon, title, subtitle, content. Divider style only.<br>
+											- ‘Append Advanced Content’: Append content after menu title block (icon+title+subtitle)<br>
+											- ‘Append Advanced Content with Shortcode’: as above, but ‘do_shortcode’ with this before append.
+										</p>
+									</li>
+									<li><b>Advanced content</b>
+										<p>
+											Insert content follow Advanced.
+										</p>
+									</li>
+									<li><b>Span</b>
+										<p>
+											- Only for menu items level 2<br>
+											- Only effect if parent item have validate size (span1-span12).<br>
+											- Important: This should not be greater parent dropdown-size<br>
+										</p>
+									</li>
+								</ol>
+							</li>
+						</ol>
+					</li>
+				</ul>
+				</div>
+			</div>
+			<!-- ========================= SECTION: Menu >> END ========================= -->
+			<!-- ========================= SECTION: Widgets >> START ========================= -->
+			<div id="widgets">
+				<div class="page-header">
+                    <h1>Widgets</h1>
+					<p>To employ a widget, simply go to your Widgets editor (located in your 
+WordPress Dashboard in the “Appearance” menu) and drag your 
+widgets into the specified widget areas.</p>
+                </div>
+				<div class="theme-options">
+					<ul>
+						<li>
+						<h3>Widget Social</h3>
+						<p>Widget Social take a simple, excendable approach to displaying links to your social media profiles in Wordpress. There's no frills and no fanciness, making it easy to style to your website's look.</p>
+						<p><b><i>Widget options:</i></b></p>
+						<ul>
+							<ol>
+								<li>Classname for Icon or Title: </li>
+								<li>Link: Insert the social link </li>
+							</ol>
+						</ul>
+						</li>
+					</ul>
+					<ul>
+						<li>
+						<h3>Widget Advanced</h3>
+						<p><b><i>Widget options:</i></b></p>
+						<ul>
+							<ol>
+								<li>You can choose the available styles for each widget for no wasting your time</li>
+								<li>Specially, you can set show/hide widget follow Menu Item</li>
+								
+							</ol>
+						</ul>
+						</li>
+					</ul>
+					<ul>
+						<li>
+						<h3>Widget Categories</h3>
+						<p>Allows the user to insert a index of posts and categories on page/post. It can produce a list categories include category name, the post title and parts of the post excerpt.</p>
+						<p><b><i>Widget options:</i></b></p>
+						<ol>
+							<li>Title</li>
+							<li>Template: default, taste</li>
+							<li>Categories name: select categories to show, allows select multi categories</li>
+							<li>Order by: Name, author, date, title, modified, parent, id, rand, comment count</li>
+							<li>Order: ASC, DES</li>
+							<li>Number of categories</li>
+							<li>Exclude categories by ID</li>
+							<li>Counts posts</li>
+							<li>Number display</li>
+							<li>Number of categories</li>
+							<li>Exclude posts by ID</li>
+							<li>Excerpt length: in words</li>
+						</ol>
+						</li>
+					</ul>
+					<ul>
+						<li>
+						<h3>Widget slider</h3>
+						<p>Allows the user to add slider to your website with a lots of custom features and styles from Bootstrap Carousel</p>
+						<p><b><i>Widget options:</i></b></p>
+						<ol>
+							<li>Title</li>
+							<li>Template: Bootstrap carousel, Bootstrap carousel 1, Bootstrap carousel 2</li>
+							<li>Categories name: select categories to show, allows select multi categories</li>
+							<li>Order by: Name, author, date, title, modified, parent, id, rand, comment count</li>
+							<li>Order: ASC, DES</li>
+							<li>Number of posts</li>
+							<li>Include posts ID</li>
+							<li>Counts posts</li>
+							<li>Excerpt length: in words.</li>
+						</ol>
+						</li>
+					</ul>
+					<ul>
+						<li>
+						<h3>Widget gallery</h3>
+						<p>Allows the user to add gallery to any position with CSS3 image gallery Jquery plugin.</p>
+						<p><b><i>Widget options:</i></b></p>
+						<ol>
+							<li>Title</li>
+							<li>Template: default</li>
+							<li>Select gallery</li>
+						</ol>
+						</li>
+					</ul>
+				</div>
+			</div>
+			 <!-- ========================= SECTION: Widgets >> END ========================= -->
+			
+            <hr />
+    
+            <div class="goodbye">
+                <p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the themes on ThemeForest, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p>
+            </div>
+        
+            <hr />
+        
+            <footer>
+                <p>&copy; Company 2012</p>
+            </footer>
+            
+        </div>
+        <!-- ========================= MAIN CONTAINER >> END ========================= -->
+         
+        
+        <!-- CHANGELOG >> START -->
+        <div class="modal hide fade" id="changelog" tabindex="-1" role="dialog" aria-labelledby="changelog-label" aria-hidden="true">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="changelog-label">Changelog</h3>
+            </div>
+            <div class="modal-body">
+            
+<!-- Code Block >> Start -->                   
+<pre>Legend:
++   Addition
+^   Change
+-   Removed
+*   Security Fix
+#   Bug Fix
+!   Note</pre>
+<!-- Code Block >> End --> 
+                  
+<!-- Code Block >> Start -->                   
+<pre>&lt;p&gt;Sample text here...&lt;/p&gt;</pre>
+<!-- Code Block >> End -->                   
+
+            </div>
+            <div class="modal-footer">
+                <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+            </div>
+        </div>
+        <!-- CHANGELOG >> END -->
+        
+        
+        
+        <!-- CREDITS >> START -->
+        <div class="modal hide fade" id="credits" tabindex="-1" role="dialog" aria-labelledby="credits-label" aria-hidden="true">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h3 id="credits-label">Credits</h3>
+            </div>
+            <div class="modal-body">
+                <p>I've used the following images, icons or other files as listed.</p>
+                <h3>JavaScript</h3>
+                <ol>
+                    <li><a href="#">jQuery</a> <small>&mdash; Nullam quis risus eget urna mollis ornare vel eu leo. </small></li>
+                    <li><a href="#">jCarousel</a> <small>&mdash; Nullam quis risus eget urna mollis ornare vel eu leo. </small></li>
+                    <li><a href="#">CodeCanyon</a> <small>&mdash; Nullam quis risus eget urna mollis ornare vel eu leo. </small></li>
+                </ol>
+                <h3>CSS</h3>
+                <ol>
+                    <li><a href="#">960.gs</a> <small>&mdash; Nullam quis risus eget urna mollis ornare vel eu leo.</small> </li>
+                </ol>
+                <h3>Images</h3>
+                <ol>
+                    <li><a href="#">PhotoDune</a> <small>&mdash; Nullam quis risus eget urna mollis ornare vel eu leo. </small></li>
+                </ol>
+            </div>
+            <div class="modal-footer">
+                <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
+            </div>
+        </div>
+        <!-- CREDITS >> END -->
+
+        <!-- loading javascripts -->
+		<script src="assets/js/jquery.js"></script> 
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/google-code-prettify/prettify.js"></script>
+        
+        <!-- init javascripts -->
+        <script src="assets/js/init.js"></script>
+         
+    </body>
+    
+</html>

@@ -1,0 +1,106 @@
+/*
+Theme Name:         SW Max Shop (shared on themelot.net)
+Theme URI:          http://magentech.com/
+Description:        SW Max Shop is Shop Wordpress Theme.
+Author:             Magentech
+Author URI:         http://magentech.com/
+Version:            1.0.3
+License:            GNU General Public License v2 or later
+*/
+
+.wp-caption{}
+.wp-caption-text{}
+.sticky{}
+.gallery-caption{}
+.bypostauthor{}
+
+/*
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blue, green, orange, rtl-language-support, sticky-post, two-columns
+Text Domain: yatheme
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+.vm-topmargin{margin-top: 10px !important;}
+
+.header-style2 #header .top-header .sidebar-top-header .top-search{margin-left: 3% !important;/*margin-top: 2% !important;*/}
+.header-style2 #header .top-header .sidebar-top-header .top-search input{width: 540px !important;}
+.header-style2 #header .top-header .sidebar-top-header .top-search .icon-search{font-size: 18px !important;}
+//#header .top-header .sidebar-top-header .box-contact-email-phone{margin-top: 25px;}
+.huge_it_slideshow_dots_2{margin: 10px !important;}
+.wpb_content_element .wpb_tabs_nav li.ui-tabs-active a{font-size: 16px;font-weight: bold;background-color: /*#5f87d1*/#009688; color: #fff; text-transform: uppercase;}
+.wpb_content_element .wpb_tour_tabs_wrapper .wpb_tabs_nav a, .wpb_content_element .wpb_accordion_header a{font-size: 16px; font-weight: bold;text-transform: uppercase;}
+
+/*Plugin: check pincode for shipping*/
+.error_class{border-color:#a00 !important;}
+#shade{background: none repeat scroll 0 0 #000000;opacity: 0.5;}
+#shade {height: 100%;left: 0;position: fixed;top: 0;width: 100%;z-index: 100;}
+form.cart #my_custom_checkout_field #pincode_field_id{width:180px;border: 1px solid #d3d3d3;margin-right: 5px;font-size: 12px;font-family: "Source Sans Pro",Helvetica,sans-serif;}
+form.cart #my_custom_checkout_field #pincode_field_idp label{display: inline-block;margin-right: 5px;font-size: 12px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#737070;}
+form.cart .wc-delivery-time-response .delivery-info-wrap {margin: 15px 0;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info {display: inline-block;width: 100%; position: relative;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .header {float: left;width: 50%;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap {float: right;width: 50%;position:relative;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .delivery-help-icon{margin-left:5px;cursor:pointer;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .header .delivery .ul-disc{margin:0;padding:0;list-style:none;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap .cash-on-delivery-info .header{float:none;width:100%;}
+form.cart .wc-delivery-time-response .delivery-info-wrap .delivery-info .cash-on-delivery-info-wrap .cash-on-delivery-info .header .cash-on-delivery-help-icon{margin-left: 5px;cursor:pointer;}
+/*-------------------product1-----------------*/
+#my_custom_checkout_field2 #pincode_field_idp #pincode_field_id.input-text{/*width:180px;border: 1px solid #666666;*/
+    margin-right: 5px;font-size: 12px;font-family: "Source Sans Pro",Helvetica,sans-serif;padding: 5px !important;}
+#my_custom_checkout_field2 #pincode_field_idp .button{ margin-top:-3px;padding:5px 10px;float: none;font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;text-transform: uppercase;  font-weight: normal;}
+#my_custom_checkout_field #pincode_field_idp #pincode_field_id.input-text{/*width:180px;border: 1px solid #666666;*/
+    margin-right: 5px;font-size: 12px;font-family: "Source Sans Pro",Helvetica,sans-serif;padding: 5px !important;}
+#my_custom_checkout_field #pincode_field_idp .button{ margin-top:-3px;padding: 5px 10px;float: none;font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;text-transform: uppercase;  font-weight: normal;}
+.delivery_help_text p{font-size: 12px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#737070;}
+.delivery_help_text h3{font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#7d7b6d;}
+.header .cash_on_delivery_help_text p{font-size: 12px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#737070;}
+.header .cash_on_delivery_help_text h3{font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#7d7b6d;}
+.delivery-help-cross {color: #000 !important;font-size: 15px;font-weight: bold;position: absolute;right: 0px;top: -2px;cursor: pointer;}
+/*-------------------product1-----------------*/
+.cash_on_delivery_help_text p{font-size: 14px;font-family: "Source Sans Pro",Helvetica,sans-serif;color:#737070;}
+/*------------background & border color & EOD message color------------*/
+/*.avlpin{background:#f4f2f2;}
+.avlpin{  border: 1px solid #e8e7e7; }*/
+.avlpin{ /*margin:24px 0 12px; padding:20px;*/ text-align:left; min-width:400px; display:inline-block;box-sizing:border-box;margin-bottom: 10px;}
+/*.pin_div{background:#f4f2f2;}
+.pin_div{ border: 1px solid #e8e7e7; }*/
+.pin_div{ /*margin:24px 0 12px; padding:20px; */text-align:left; width:100%; display:inline-block; }
+	
+/*------------background & border color & EOD message color------------*/
+/*------------Text color------------*/
+.avlpin span{ color:#009688; font-weight: bold; }
+.avlpin p{ color:#737070; }	
+.avlpin p{ font-weight: bold;display:inline-block; margin-right: 5px; font-size: 14px; font-family: "Source Sans Pro",Helvetica,sans-serif; margin-bottom:0;}
+#pincode_field_idp label{color:#737070; display: inline-block; margin-right: 5px; font-size:14px; font-family: "Source Sans Pro",Helvetica,sans-serif;}
+/*------------Text color------------*/
+/*------------Button & Button Text color------------*/
+#my_custom_checkout_field2 #pincode_field_idp .button{ color:#fff; }
+#my_custom_checkout_field2 #pincode_field_idp .button{ background:none repeat scroll 0 0 #009688; }
+#my_custom_checkout_field #pincode_field_idp .button{ color:#fff; }
+#my_custom_checkout_field #pincode_field_idp .button{ background:none repeat scroll 0 0 #009688; }
+#change_pin.button{ background:#009688;color:#fff;float:none; font-size: 12px; font-family: "Source Sans Pro",Helvetica,sans-serif; padding:7px 12px; text-transform: uppercase; font-weight:normal;}
+/*------------Button & Button Text color------------*/
+/*-----Tooltip Border, Tooltip Background & Tooltip Text color-----*/
+.header .delivery_help_text{ background:#EDEDED; }
+.header .delivery_help_text{ border:1px solid #e8e7e7; }
+.header .delivery_help_text{ width:100%; box-sizing: border-box; overflow:auto; height:200px; position: absolute; z-index:9999; top:25px; left:0; padding:15px; font-size:14px; font-family: "Source Sans Pro",Helvetica,sans-serif;}	
+/*-----Tooltip Border, Tooltip Background & Tooltip Text color-----*/    
+/*------------Delivered by Text color------------*/
+.delivery-info h6{ margin:0; display:inline-block; font-size: 14px; font-weight: bold;font-family: "Source Sans Pro",Helvetica,sans-serif;}
+/*------------Delivered by Text color------------*/
+/*------------Date color------------*/
+.delivery .ul-disc li{ font-size:14px;font-family: "Source Sans Pro",Helvetica,sans-serif;}
+/*------------Date color------------*/
+.delivery_help_text_main{ position: relative;width:100%; }
+.delivery-info span h6{ color:#484747; }
+.width_class {  }
+/*End of check pincode css*/
+
+#tab-description h2, .product-description h2, .product-description h3, #tab-description h3{font-size: 16px;}
+#tab-description table{text-align: left;margin-bottom: 20px;margin-top: 20px;}
+#tab-description table tr td{font-size: 12px;padding-left: 10px;}
+#tab-description table tr th, #tab-description table tr th.groupHead{background-color: #f2f2f2;padding: 5px;}
+#tab-description table tr td, #tab-description table tr td.specsKey{border-bottom:1px dotted #c9c9c9; border-right:1px solid #c9c9c9}
+#tab-description table tr td, #tab-description table tr td.specsValue{border-bottom:1px dotted #c9c9c9; border-left:1px solid #c9c9c9}

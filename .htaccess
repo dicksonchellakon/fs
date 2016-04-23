@@ -1,0 +1,40 @@
+# BEGIN W3TC Browser Cache
+<IfModule mod_deflate.c>
+    <IfModule mod_headers.c>
+        Header append Vary User-Agent env=!dont-vary
+    </IfModule>
+    <IfModule mod_filter.c>
+        AddOutputFilterByType DEFLATE text/css text/x-component application/x-javascript application/javascript text/javascript text/x-js text/html text/richtext image/svg+xml text/plain text/xsd text/xsl text/xml image/x-icon application/json
+    <IfModule mod_mime.c>
+        # DEFLATE by extension
+        AddOutputFilter DEFLATE js css htm html xml
+    </IfModule>
+    </IfModule>
+</IfModule>
+# END W3TC Browser Cache
+
+# BEGIN SF Move Login
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /wordpress/
+    RewriteRule ^login/?$ wp-login.php [QSA,L]
+    RewriteRule ^postpass/?$ wp-login.php?action=postpass [QSA,L]
+    RewriteRule ^logout/?$ wp-login.php?action=logout [QSA,L]
+    RewriteRule ^lost-password/?$ wp-login.php?action=lostpassword [QSA,L]
+    RewriteRule ^reset-password/?$ wp-login.php?action=resetpass [QSA,L]
+    RewriteRule ^register/?$ wp-login.php?action=register [QSA,L]
+</IfModule>
+# END SF Move Login
+
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /wordpress/
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /wordpress/index.php [L]
+</IfModule>
+
+# END WordPress
